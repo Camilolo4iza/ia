@@ -1,82 +1,91 @@
-# 🐾 VetAssist AI — Asistente Clínico Inteligente
+# 🐾 VetAssist AI — Copiloto Clínico Veterinario Inteligente
 
-VetAssist AI es un asistente inteligente diseñado para clínicas y centros de salud animal. El sistema permite al personal médico veterinario realizar consultas en lenguaje natural sobre diagnósticos, tratamientos, vacunas, dosificaciones y protocolos clínicos, devolviendo respuestas fundamentadas en un corpus de conocimiento local, citando fuentes formales y generando reportes clínicos en PDF.
+VetAssist AI es una plataforma de asistencia clínica inteligente diseñada para clínicas y centros de salud de pequeños animales (perros y gatos). El sistema permite al personal médico veterinario realizar consultas en lenguaje natural sobre diagnósticos, tratamientos, vacunas, dosificaciones y protocolos clínicos, devolviendo respuestas fundamentadas en un corpus de conocimiento local, citando fuentes científicas/formales y generando reportes clínicos en PDF de alta calidad.
 
-El proyecto integra arquitecturas avanzadas de Procesamiento de Lenguaje Natural (NLP):
-1. **Pipeline RAG (Retrieval-Augmented Generation)**: Con búsqueda vectorial en base local y una etapa secundaria de **Re-ranking semántico con Cross-Encoder** para garantizar relevancia de contexto.
-2. **Orquestación Multi-Agente con LangGraph**: Flujo coordinado entre un Agente Buscador (Retriever) y un Agente Redactor (Writer) con bucle de validación/retroalimentación.
-3. **Servidor MCP (Model Context Protocol)**: Exposición estándar de herramientas clínicas complejas (cálculo de dosificación y consultas de calendarios de vacunación).
-4. **Skills Especializadas**: Generación automatizada de reportes clínicos en formato PDF.
+El proyecto está diseñado bajo una arquitectura de vanguardia en Procesamiento de Lenguaje Natural (NLP), combinando sistemas de recuperación avanzada, orquestación de agentes con grafos y herramientas clínicas integradas bajo el estándar de comunicación abierta MCP (Model Context Protocol).
 
 ---
 
-## 📂 Estructura del Proyecto
+## 🌟 Características Principales
 
+* **Búsqueda Clínica RAG de Alta Precisión**: Sistema de Generación Aumentada por Recuperación (RAG) que combina búsqueda semántica en base de datos vectorial local con una etapa secundaria de **Re-ranking semántico con Cross-Encoder** para filtrar ruido y asegurar la máxima relevancia del contexto médico.
+* **Orquestación Multi-Agente con LangGraph**: Flujo de decisión estructurado mediante un grafo de agentes (Agente Buscador y Agente Redactor) que operan en un bucle con validación cruzada y políticas estrictas para prevenir alucinaciones clínicas.
+* **Herramientas de Dosificación y Vacunación (Protocolo MCP)**: Exposición y ejecución estandarizada de herramientas de cálculo de dosis y esquemas de vacunación a través de un servidor MCP (Model Context Protocol).
+* **Generación de Reportes PDF Sanitizados**: Exportación inmediata de las consultas en reportes clínicos profesionales listos para entregar a los propietarios del paciente, incluyendo citas de las fuentes consultadas y sanitización de texto.
+* **Panel de Control RAG Interactivo**: Interfaz integrada en Streamlit que permite visualizar en tiempo real el estado de la base de conocimientos vectorial (ChromaDB) y re-indexar los documentos con un solo clic.
+
+---
+
+## 🏗️ Arquitectura Técnica y Flujo de Información
+
+El sistema procesa y responde a las solicitudes médicas siguiendo este flujo:
+
+```mermaid
+graph TD
+    User([Médico Veterinario]) --> UI[Interfaz Streamlit]
+    UI --> Graph[Grafo LangGraph]
+    
+    subgraph Agents [Orquestación de Agentes]
+        Graph --> RetrieverAgent[Retriever Agent]
+        Graph --> WriterAgent[Writer Agent]
+    end
+    
+    subgraph RAG [Capa RAG Avanzada]
+        RetrieverAgent --> DB[Búsqueda en ChromaDB]
+        DB --> Embedding[MiniLM Embeddings - 384d]
+        DB --> Rerank[Re-ranking con Cross-Encoder]
+    end
+    
+    subgraph Tools [Servidor MCP]
+        WriterAgent --> MCPServer[Vet MCP Server]
+        MCPServer --> Dosis[Calculadora de Dosis]
+        MCPServer --> Vacunas[Calendario de Vacunas]
+    end
+    
+    WriterAgent --> PDF[Generador de PDF]
+    PDF --> Doc[Descarga del Reporte]
 ```
-ProyectoFinalIA/
-├── src/
-│   ├── __init__.py
-│   ├── app.py                    # Interfaz de usuario Streamlit principal
-│   ├── config.py                 # Constantes y configuración centralizada
-│   ├── ingestion/
-│   │   ├── __init__.py
-│   │   ├── loader.py             # Carga recursiva de archivos raw
-│   │   ├── chunker.py            # Fragmentador semántico por secciones
-│   │   └── embedder.py           # Generador de embeddings (sentence-transformers)
-│   ├── retrieval/
-│   │   ├── __init__.py
-│   │   ├── vector_store.py       # Controlador de ChromaDB
-│   │   ├── reranker.py           # Re-ranking con Cross-Encoder (MiniLM)
-│   │   └── rag_pipeline.py       # Pipeline RAG unificado
-│   ├── agents/
-│   │   ├── __init__.py
-│   │   ├── state.py              # Estado compartido de agentes
-│   │   ├── retriever_agent.py    # Agente Buscador
-│   │   ├── writer_agent.py       # Agente Redactor (Guardrail)
-│   │   └── graph.py              # Compilador del grafo de LangGraph
-│   ├── mcp/
-│   │   ├── __init__.py
-│   │   └── vet_mcp_server.py     # Servidor MCP (FastMCP) con herramientas clínicas
-│   └── skills/
-│       ├── __init__.py
-│       └── report_skill.py       # Habilidad: exportar informe médico PDF
-├── docs/
-│   ├── arquitectura_general.md   # Arquitectura y diagrama Mermaid
-│   ├── flujo_rag.md              # Detalle de ingesta y búsqueda vectorial
-│   ├── interaccion_agentes.md    # Detalle de LangGraph y secuencia
-│   └── decisiones_tecnicas.md    # Justificaciones tecnológicas y trade-offs
-├── data/
-│   ├── raw/                      # 16 documentos veterinarios del corpus (.txt)
-│   └── processed/                # Directorio de persistencia de ChromaDB
-├── tests/
-│   ├── __init__.py
-│   ├── test_chunker.py           # Pruebas del chunker
-│   ├── test_rag_pipeline.py      # Pruebas del pipeline RAG
-│   └── test_agents.py            # Pruebas del flujo multiagente
-├── requirements.txt              # Dependencias del proyecto
-├── .env.example                  # Ejemplo de variables de entorno
-├── .gitignore                    # Reglas de exclusión de git
-└── README.md                     # Guía principal (este archivo)
-```
+
+1. **Ingesta y Segmentación**: Los documentos clínicos de la carpeta `data/raw/` se procesan de forma semántica con un fragmentador adaptativo (`Chunker`) y se transforman en vectores de 384 dimensiones mediante el modelo local `paraphrase-multilingual-MiniLM-L12-v2`.
+2. **Recuperación Vectorial**: Al consultar al asistente, ChromaDB busca los fragmentos más relevantes y los entrega al **Re-ranker (Cross-Encoder)** (`ms-marco-MiniLM-L-6-v2`), el cual recalcula el peso semántico del par (Pregunta, Fragmento) y selecciona los 3 mejores fragmentos de información.
+3. **Loop de Agentes**:
+   * El **Agente Buscador** recoge los fragmentos más útiles del RAG.
+   * El **Agente Redactor** consulta las herramientas del servidor MCP si es necesario (ej. dosis de medicamentos) y redacta la respuesta final usando el LLM de alto desempeño `Llama 3.3 70B` en Groq, verificando que no existan alucinaciones.
+4. **Habilidad de Reportes (PDF)**: El usuario puede exportar los resultados a un reporte formal con un diseño limpio y profesional.
+
+---
+
+## 📂 Estructura del Código Fuente
+
+* **`src/app.py`**: Interfaz de usuario web construida en Streamlit.
+* **`src/config.py`**: Configuración centralizada de variables, constantes y modelos.
+* **`src/ingestion/`**: Lógica de carga recursiva de archivos raw (`loader.py`), particionado inteligente (`chunker.py`) y generación de vectores (`embedder.py`).
+* **`src/retrieval/`**: Controlador de ChromaDB (`vector_store.py`), modelo de Re-ranking (`reranker.py`) y pipeline RAG unificado (`rag_pipeline.py`).
+* **`src/agents/`**: Definición del flujo multi-agente en LangGraph (`graph.py`, `state.py`, `retriever_agent.py`, `writer_agent.py`).
+* **`src/mcp/`**: Servidor MCP local con herramientas clínicas de cálculo y consulta (`vet_mcp_server.py`).
+* **`src/skills/`**: Habilidad de generación de reportes en PDF (`report_skill.py`).
+* **`data/raw/`**: Base de conocimientos con 16 documentos y manuales clínicos en formato de texto.
+* **`docs/`**: Documentación técnica detallada de decisiones técnicas, agentes, RAG y arquitectura general.
 
 ---
 
 ## 🛠️ Instalación y Configuración
 
-### Requisitos Previos
+### Requisitos de Entorno
 * **Python 3.10 o superior** (Se recomienda Python 3.12).
-* **Conexión a Internet** (para llamadas al LLM de Groq y descargas iniciales de modelos).
+* **Conexión activa a Internet** (para llamadas a la API de Groq y descargas iniciales de modelos).
 
-### Paso 1: Configurar el Entorno Virtual
-Abre una terminal en la raíz del proyecto y crea un entorno virtual:
+### Paso 1: Clonar y Configurar Entorno Virtual
+Abre la terminal en la raíz del proyecto y ejecuta:
 ```bash
-# Crear entorno
-py -m venv .venv
+# Crear el entorno virtual
+python -m venv .venv
 
-# Activar en Windows (PowerShell)
+# Activar el entorno virtual (PowerShell)
 .venv\Scripts\Activate.ps1
-# Activar en Windows (CMD)
-.venv\Scripts\activate.bat
+
+# Activar el entorno virtual (Linux/macOS)
+source .venv/bin/activate
 ```
 
 ### Paso 2: Instalar Dependencias
@@ -85,52 +94,40 @@ Instala los paquetes necesarios indicados en `requirements.txt`:
 pip install -r requirements.txt
 ```
 
-### Paso 3: Configurar Clave API
-1. Registra una cuenta gratuita en [console.groq.com](https://console.groq.com) y genera una API key.
-2. Duplica el archivo `.env.example` y renómbralo a `.env`:
+### Paso 3: Configurar Variables de Entorno
+1. Renombra el archivo `.env.example` a `.env`:
    ```bash
    cp .env.example .env
    ```
-3. Edita `.env` e inserta tu clave:
+2. Abre el archivo `.env` e introduce tu clave API de Groq:
    ```env
-   GROQ_API_KEY=gsk_tu_clave_real_de_groq_aqui
+   GROQ_API_KEY=tu_clave_de_groq_aqui
    ```
 
 ---
 
-## 🚀 Uso del Sistema
+## 🚀 Uso de la Aplicación
 
-### 1. Ejecutar la Aplicación Web (Streamlit)
-Para lanzar la interfaz gráfica en tu navegador local, ejecuta:
+### Ejecutar la Aplicación Web (Streamlit)
+Levanta la interfaz gráfica del copiloto corriendo en tu terminal:
 ```bash
 streamlit run src/app.py
 ```
-*La interfaz se abrirá automáticamente en `http://localhost:8501`.*
+La aplicación se abrirá automáticamente en tu navegador web en `http://localhost:8501`. 
 
-**Uso de la Interfaz:**
-1. **Ficha del Paciente (Sidebar)**: Registra el nombre, especie, edad y peso de la mascota. Estos datos se usarán para cálculos dosificadores automáticos y para la cabecera del informe.
-2. **Calculadora Rápida (Sidebar)**: Permite ingresar un fármaco y calcular la dosis al instante (MCP) o consultar el esquema de vacunas.
-3. **Chat de Consulta (Main)**: Haz preguntas al asistente. Verás la respuesta formulada, las fuentes consultadas y podrás descargar un reporte formal en PDF haciendo clic en "Generar Reporte PDF".
+*Nota: La primera vez que inicies el chat, ve a la sección **"📊 Estado del Sistema RAG"** en las pestañas principales y haz clic en **"🔄 Re-indexar Documentos"** para estructurar la base de datos vectorial local.*
 
-### 2. Ejecutar y Probar el Servidor MCP
-El servidor Model Context Protocol de VetAssist AI se encuentra en `src/mcp/vet_mcp_server.py`. Puedes levantarlo o probar sus herramientas utilizando el Inspector de MCP oficial:
+### Inspeccionar y Ejecutar el Servidor MCP
+Puedes ejecutar o depurar el servidor Model Context Protocol del proyecto utilizando el inspector oficial de Anthropic:
 ```bash
 npx -y @modelcontextprotocol/inspector python src/mcp/vet_mcp_server.py
 ```
 
 ---
 
-## 🧪 Pruebas Unitarias
+## 🧪 Pruebas Unitarias y Validación
 
-El proyecto cuenta con un set de pruebas automatizadas con `pytest`. Para ejecutarlas y validar la consistencia del código, corre:
+El proyecto incluye un conjunto de pruebas unitarias automatizadas con `pytest` para verificar el correcto funcionamiento del pipeline RAG, el chunker y los agentes. Para ejecutarlas:
 ```bash
 pytest tests/ -v
 ```
-
----
-
-## 👥 Autores y Créditos
-* **Integrante 1**: [Nombre Completo - Correo]
-* **Integrante 2**: [Nombre Completo - Correo]
-
-*Materia: Inteligencia Artificial / Proyecto Final de Semestre.*
