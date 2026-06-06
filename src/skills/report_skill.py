@@ -142,26 +142,7 @@ class ClinicalReportGenerator:
         
         # (Secciones de Herramientas y Fuentes removidas por inestabilidad de FPDF con strings largos)
 
-        # ----------------------------------------------------
-        # Sección de Firma
-        # ----------------------------------------------------
-        pdf.ln(5)
-        current_y = pdf.get_y()
-        if current_y > 230: 
-            pdf.add_page()
-            
-        pdf.set_font('Helvetica', 'I', 9)
-        pdf.set_text_color(127, 140, 141)
-        pdf.cell(95, 5, sanitize_text("Firma del Asistente IA (Soporte)"), 0, 0, 'C')
-        pdf.cell(95, 5, sanitize_text("Firma del Veterinario a Cargo"), 0, 1, 'C')
-        
-        pdf.ln(12)
-        pdf.cell(95, 5, "_______________________", 0, 0, 'C')
-        pdf.cell(95, 5, "_______________________", 0, 1, 'C')
-        
-        pdf.set_font('Helvetica', '', 8)
-        pdf.cell(95, 5, "VetAssist AI Engine", 0, 0, 'C')
-        pdf.cell(95, 5, sanitize_text("M.V. (Firma manuscrita)"), 0, 1, 'C')
+
 
         # Guardar Archivo
         if not filename:
