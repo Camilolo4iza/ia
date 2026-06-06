@@ -1,0 +1,25 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache y bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variables de entorno
+.env
+
+# Base de datos vectorial (Persistencia de ChromaDB)
+data/processed/chroma/
+
+# Reportes generados
+reports/*.pdf
+
+# IDE y configuración
+.vscode/
+.idea/
+.gemini/
+*.log

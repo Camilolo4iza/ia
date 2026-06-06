@@ -1,0 +1,114 @@
+DESPARASITACIÓN EN PEQUEÑOS ANIMALES — PROTOCOLOS Y RECOMENDACIONES
+
+1. INTRODUCCIÓN
+La desparasitación es un componente esencial de la medicina preventiva veterinaria. Los parásitos internos y externos afectan la salud del animal, pueden causar enfermedad grave y algunos representan riesgo zoonótico para los humanos. Este documento establece los protocolos de desparasitación para perros y gatos en clínica veterinaria.
+
+2. PARÁSITOS INTERNOS (ENDOPARÁSITOS)
+
+2.1 Nematodos (Gusanos Redondos)
+
+Toxocara canis / Toxocara cati
+Son los parásitos intestinales más comunes en cachorros y gatitos. La infección puede ocurrir por vía transplacentaria (perros), transmamaria o por ingestión de huevos larvados. Los signos incluyen distensión abdominal, diarrea, vómitos (a veces con gusanos visibles), retraso en el crecimiento y pelaje opaco. Es una zoonosis importante: la larva migrans visceral y ocular afecta principalmente a niños.
+
+Protocolo de desparasitación en cachorros:
+- Iniciar a las 2 semanas de edad
+- Repetir cada 2 semanas hasta las 8 semanas
+- Luego mensual hasta los 6 meses
+- Después cada 3 meses de por vida
+
+Protocolo en gatitos:
+- Iniciar a las 3 semanas de edad
+- Repetir cada 2 semanas hasta las 9 semanas
+- Luego mensual hasta los 6 meses
+- Después cada 3 meses
+
+Ancylostoma caninum / Ancylostoma tubaeforme
+Los ancylostomas (gusanos ganchudos) se alimentan de sangre y causan anemia severa, especialmente en cachorros. La infección puede ser percutánea, oral o transmamaria. Los signos incluyen diarrea oscura o melena, anemia, debilidad y pérdida de peso.
+
+Trichuris vulpis (Tricocéfalos)
+Afecta principalmente a perros. Se localiza en el ciego y colon. Causa diarrea mucoide o hemorrágica, pérdida de peso y, en infestaciones graves, anemia.
+
+2.2 Cestodos (Gusanos Planos)
+
+Dipylidium caninum
+El cestodo más común en perros y gatos. Se transmite por ingestión de pulgas infectadas. Los signos suelen ser leves: proglótidos visibles en heces (parecen granos de arroz), prurito perianal e irritación.
+
+Tratamiento: Praziquantel 5 mg/kg dosis única oral
+Prevención: Control de pulgas es esencial para prevenir reinfestación
+
+Echinococcus granulosus / E. multilocularis
+Cestodos de gran importancia zoonótica (hidatidosis). Los perros son hospedadores definitivos. La desparasitación regular con praziquantel es fundamental en zonas endémicas.
+
+2.3 Protozoos
+
+Giardia spp.
+Protozoo flagelado que causa diarrea crónica, malabsorción y pérdida de peso. El diagnóstico se realiza por flotación fecal, SNAP test o PCR. El tratamiento incluye fenbendazol (50 mg/kg/día x 5 días) o metronidazol (25 mg/kg BID x 5-7 días).
+
+Coccidios (Isospora spp.)
+Comunes en cachorros y gatitos en condiciones de hacinamiento. Causan diarrea acuosa o hemorrágica. Tratamiento con sulfadimetoxina o toltrazuril.
+
+3. PARÁSITOS EXTERNOS (ECTOPARÁSITOS)
+
+3.1 Pulgas (Ctenocephalides felis / C. canis)
+Las pulgas son los ectoparásitos más comunes. Causan prurito, dermatitis alérgica por picadura de pulgas (DAPP), transmiten Dipylidium y Bartonella, y en infestaciones masivas pueden causar anemia en cachorros y gatitos.
+
+Productos recomendados:
+- Isoxazolinas orales (fluralaner, afoxolaner, sarolaner): duración 1-3 meses
+- Selamectina tópica: mensual
+- Fipronil tópico: mensual
+- Imidacloprid + permetrina (SOLO perros, tóxico para gatos): mensual
+
+ADVERTENCIA: La permetrina es extremadamente tóxica para gatos. Nunca usar productos para perros que contengan permetrina en gatos.
+
+3.2 Garrapatas
+Vectores de enfermedades graves como ehrlichiosis, babesiosis, anaplasmosis y enfermedad de Lyme.
+
+Productos recomendados:
+- Isoxazolinas (mismos que para pulgas)
+- Collares de deltametrina o flumetrina + imidacloprid
+- Amitraz (en desuso por toxicidad)
+
+3.3 Ácaros de la Sarna
+Sarcoptes scabiei: Sarna sarcóptica, altamente pruriginosa y contagiosa (zoonosis)
+Demodex canis: Sarna demodécica, no contagiosa, asociada a inmunosupresión
+Otodectes cynotis: Ácaro del oído, causa otitis externa intensa
+
+Tratamiento de sarna demodécica: Isoxazolinas (tratamiento de elección actual), ivermectina oral o moxidectina tópica.
+
+4. PROTOCOLO DE DESPARASITACIÓN INTEGRAL
+
+4.1 Cachorros y Gatitos
+- Desparasitación interna: iniciar a las 2-3 semanas, repetir cada 2 semanas hasta las 8-9 semanas, luego mensual hasta los 6 meses
+- Desparasitación externa: iniciar cuando sea seguro según el producto (generalmente desde las 8 semanas)
+- Realizar coprológico antes de la primera desparasitación si es posible
+
+4.2 Adultos
+- Desparasitación interna: cada 3 meses (4 veces al año)
+- Desparasitación externa: mensual o según la duración del producto
+- Coprológico anual recomendado
+- En zonas endémicas de parásitos específicos, ajustar frecuencia
+
+4.3 Hembras Gestantes
+- Desparasitar con fenbendazol desde el día 40 de gestación hasta 14 días post-parto
+- Reduce significativamente la carga parasitaria neonatal
+- Evitar productos no aprobados para gestación
+
+5. DIAGNÓSTICO PARASITOLÓGICO
+- Coprológico seriado (3 muestras en días consecutivos): técnica de flotación con sulfato de zinc
+- SNAP test para Giardia
+- Raspado cutáneo profundo para Demodex
+- Raspado cutáneo superficial para Sarcoptes
+- Hisopado ótico y observación microscópica para Otodectes
+- PCR fecal para parásitos difíciles de detectar
+
+6. ANTIPARASITARIOS COMUNES Y DOSIS
+
+Fármaco              | Espectro              | Dosis Perro           | Dosis Gato
+Fenbendazol          | Nematodos, Giardia    | 50 mg/kg/día x 3-5d  | 50 mg/kg/día x 3-5d
+Praziquantel         | Cestodos              | 5 mg/kg dosis única   | 5 mg/kg dosis única
+Pirantel             | Nematodos             | 5-10 mg/kg            | 20 mg/kg
+Milbemicina oxima    | Nematodos, prevención | 0.5 mg/kg mensual     | 2 mg/kg mensual
+Selamectina          | Pulgas, ácaros, nema  | 6 mg/kg tópico        | 6 mg/kg tópico
+Fluralaner           | Pulgas, garrapatas    | 25-56 mg/kg oral      | 40 mg/kg tópico
+
+Fuentes: ESCCAP Guidelines 2024, CAPC Recommendations, Manual Merck Veterinario.

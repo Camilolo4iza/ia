@@ -1,0 +1,143 @@
+CARDIOLOGÍA VETERINARIA — ENFERMEDADES CARDÍACAS EN PERROS Y GATOS
+
+1. INTRODUCCIÓN
+Las enfermedades cardíacas son frecuentes en perros y gatos, con diferencias importantes entre ambas especies. En perros, la enfermedad valvular degenerativa es la cardiopatía más común, mientras que en gatos predomina la cardiomiopatía hipertrófica. El diagnóstico temprano y el tratamiento adecuado pueden mejorar significativamente la calidad y expectativa de vida del paciente.
+
+2. EVALUACIÓN CARDIOVASCULAR
+
+2.1 Examen Físico Cardíaco
+- Auscultación: identificar soplos, arritmias, frecuencia cardíaca
+  * Soplos: clasificar por grado (I-VI), localización (PMI), timing (sistólico, diastólico, continuo)
+  * Grado I: apenas audible, Grado VI: audible sin estetoscopio con thrill palpable
+- Pulso femoral: calidad, frecuencia, sincronía con latido cardíaco, déficit de pulso
+- Mucosas y TRC
+- Distensión yugular, pulso yugular
+- Auscultación pulmonar: crepitaciones (edema pulmonar)
+- Palpación abdominal: hepatomegalia, ascitis
+
+2.2 Frecuencias Cardíacas Normales
+- Perro: 60-140 lpm (razas grandes: 60-100, razas pequeñas: 80-140)
+- Gato: 140-220 lpm
+- Arritmia sinusal respiratoria: normal en perros, anormal en gatos
+
+2.3 Diagnóstico por Imagen
+
+Radiografía torácica:
+- Evaluar tamaño cardíaco: VHS (Vertebral Heart Score)
+  * Perro: normal <10.5 vértebras (varía por raza)
+  * Gato: normal <8.0 vértebras
+- Evaluar patrón pulmonar: venoso (congestión), intersticial/alveolar (edema)
+- Evaluar vasos pulmonares: dilatación (ICC izquierda) o pérdida (hipertensión pulmonar)
+
+Ecocardiografía:
+- Gold standard para diagnóstico cardíaco
+- Modo M: mediciones de cámaras y paredes
+- Modo 2D: anatomía, movimiento valvular, contractilidad
+- Doppler: flujos, regurgitaciones, gradientes de presión
+- Valores clave:
+  * Fracción de acortamiento (FS): perro 25-45%, gato 30-55%
+  * Relación AI/Ao: <1.6 (perro), <1.6 (gato) — dilatación atrial izquierda si mayor
+  * Grosor de pared VI en diástole (gato): >6 mm es sugestivo de CMH
+
+ECG:
+- Diagnóstico de arritmias
+- Arritmias comunes en cardiopatías: fibrilación atrial, taquicardia ventricular, complejos prematuros
+
+3. ENFERMEDADES CARDÍACAS EN PERROS
+
+3.1 Enfermedad Valvular Degenerativa Mitral (EVDM)
+- Cardiopatía adquirida más común en perros (75% de cardiopatías caninas)
+- Afecta principalmente a razas pequeñas y medianas: Cavalier King Charles Spaniel, Chihuahua, Dachshund, Poodle miniatura, Yorkshire
+- Degeneración mixomatosa de las valvas mitrales → insuficiencia mitral → sobrecarga de volumen → dilatación atrial izquierda → ICC izquierda
+
+Clasificación ACVIM:
+- Estadio A: raza de riesgo, sin soplo ni cambios estructurales
+- Estadio B1: soplo presente, sin cardiomegalia
+- Estadio B2: soplo con cardiomegalia (AI dilatada, ventrículo dilatado)
+- Estadio C: insuficiencia cardíaca congestiva actual o previa (edema pulmonar)
+- Estadio D: ICC refractaria al tratamiento estándar
+
+Tratamiento según estadio ACVIM:
+- B1: monitoreo cada 6-12 meses, no requiere tratamiento farmacológico
+- B2: pimobendan 0.25 mg/kg BID (demostrado que retrasa aparición de ICC - estudio EPIC)
+- C: pimobendan + furosemida (1-4 mg/kg BID-TID) + benazepril/enalapril (0.5 mg/kg SID-BID) + espironolactona (2 mg/kg SID)
+- D: aumentar dosis de furosemida, añadir hidroclorotiazida, amlodipino si hay hipertensión, considerar sildenafilo si hay hipertensión pulmonar
+
+3.2 Cardiomiopatía Dilatada (CMD)
+- Afecta razas grandes y gigantes: Doberman, Gran Danés, Bóxer, Irish Wolfhound, Cocker Spaniel
+- Dilatación ventricular con disfunción sistólica (FS disminuida)
+- Asociada a deficiencia de taurina en algunas razas (Cocker, Golden) y en dietas grain-free (investigación en curso)
+
+Signos: intolerancia al ejercicio, tos, disnea, síncope, distensión abdominal (ascitis), muerte súbita (Doberman, Bóxer)
+
+Tratamiento: pimobendan + furosemida + IECA + espironolactona + antiarrítmicos si hay arritmias ventriculares (sotalol en Doberman y Bóxer)
+
+3.3 Conducto Arterioso Persistente (PDA)
+- Cardiopatía congénita más común en perros
+- El conducto arterioso no se cierra al nacer
+- Soplo continuo (maquinaria) en base cardíaca izquierda
+- Tratamiento: cierre quirúrgico (ligadura) o intervencionista (ACDO - Amplatz Canine Duct Occluder)
+- Si se trata tempranamente, pronóstico excelente
+
+4. ENFERMEDADES CARDÍACAS EN GATOS
+
+4.1 Cardiomiopatía Hipertrófica (CMH)
+- Cardiopatía más común en gatos (58% de cardiopatías felinas)
+- Engrosamiento concéntrico de la pared del ventrículo izquierdo (>6 mm en diástole)
+- Razas predispuestas: Maine Coon, Ragdoll, British Shorthair, Persa, Sphynx
+- Mutación genética identificada en MyBPC3 (Maine Coon, Ragdoll)
+
+Signos clínicos:
+- Muchos gatos son asintomáticos (soplo hallazgo incidental)
+- Disnea/taquipnea (edema pulmonar o efusión pleural)
+- Letargia, anorexia
+- Parálisis aguda de miembros posteriores (tromboembolismo aórtico)
+- Muerte súbita
+
+Diagnóstico:
+- Ecocardiografía: grosor de pared VI >6 mm, dilatación AI, SAM (movimiento anterior sistólico de la mitral)
+- ProBNP sérico: biomarcador de estrés miocárdico (screening)
+- Radiografía: cardiomegalia tipo valentín, edema pulmonar
+
+Tratamiento:
+- Asintomático sin dilatación AI: monitoreo cada 6-12 meses
+- Con dilatación AI: clopidogrel 18.75 mg PO SID (prevención de tromboembolismo - estudio FAT CAT)
+- ICC: furosemida (1-2 mg/kg IV en crisis, luego PO BID), benazepril, +/- pimobendan si hay disfunción sistólica
+- Atenolol (6.25-12.5 mg PO BID) si hay obstrucción dinámica del tracto de salida (HOCM)
+- Estrés y manejo: los gatos con CMH deben manejarse con mínimo estrés (sedación para procedimientos)
+
+4.2 Tromboembolismo Aórtico Felino (FATE/TEA)
+- Complicación devastadora de la CMH
+- Trombo formado en aurícula izquierda dilatada se emboliza a la trifurcación aórtica
+- Signos: parálisis aguda de miembros posteriores, dolor intenso, extremidades frías y cianóticas, ausencia de pulso femoral, rigidez muscular
+- Los 5 P's: Pain (dolor), Paralysis (parálisis), Pulselessness (sin pulso), Pallor (palidez), Poikilothermia (extremidades frías)
+
+Tratamiento:
+- Analgesia agresiva: metadona, fentanilo
+- Clopidogrel 18.75 mg PO SID
+- Trombólisis: no generalmente recomendada (complicaciones de reperfusión)
+- Tratamiento de ICC concurrente
+- Pronóstico: reservado a malo, 50% de mortalidad aguda, alto riesgo de recurrencia
+
+5. INSUFICIENCIA CARDÍACA CONGESTIVA (ICC)
+
+5.1 ICC Izquierda
+- Edema pulmonar
+- Signos: tos (perros), disnea, taquipnea, ortopnea, crepitaciones
+- Diagnóstico: radiografía (patrón alveolar perihiliar en perros, difuso en gatos)
+
+5.2 ICC Derecha
+- Ascitis, efusión pleural, edema periférico
+- Signos: distensión abdominal, hepatomegalia, disnea (si efusión pleural)
+- Diagnóstico: ecografía abdominal (ascitis, dilatación de vena cava), radiografía
+
+5.3 Tratamiento de Emergencia de ICC
+- Oxigenoterapia (flow-by, cámara de oxígeno)
+- Furosemida IV: 2-4 mg/kg (perros), 1-2 mg/kg (gatos), repetir cada 1-2 horas según respuesta
+- Minimizar estrés (especialmente en gatos)
+- Toracocentesis si efusión pleural significativa
+- Abdominocentesis si ascitis tensa que compromete respiración
+- Pimobendan: iniciar precozmente
+- Monitorear frecuencia respiratoria (objetivo <30 rpm en reposo)
+
+Fuentes: ACVIM Consensus Statements on Canine and Feline Cardiac Disease, Manual BSAVA de Cardiología, Manual Merck Veterinario.

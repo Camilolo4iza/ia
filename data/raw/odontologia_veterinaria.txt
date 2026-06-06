@@ -1,0 +1,165 @@
+ODONTOLOGÍA VETERINARIA — PROFILAXIS Y ENFERMEDADES ORALES
+
+1. INTRODUCCIÓN
+La enfermedad dental es la patología más prevalente en perros y gatos adultos, afectando al 80% de los perros y al 70% de los gatos mayores de 3 años. La salud oral tiene impacto directo en la salud sistémica del paciente. Este documento cubre los aspectos fundamentales de la odontología veterinaria en pequeños animales.
+
+2. ANATOMÍA DENTAL
+
+2.1 Fórmula Dental
+Perro adulto: 2(I 3/3, C 1/1, PM 4/4, M 2/3) = 42 dientes
+Gato adulto: 2(I 3/3, C 1/1, PM 3/2, M 1/1) = 30 dientes
+
+Dientes deciduos:
+Perro: 28 dientes (sin molares)
+Gato: 26 dientes
+
+Cronología de erupción:
+- Deciduos: 3-6 semanas de edad
+- Permanentes: 3-7 meses de edad
+- Si un diente deciduo no se ha caído cuando erupciona el permanente: extracción del deciduo
+
+2.2 Estructura del Diente
+- Esmalte: capa externa, tejido más duro del cuerpo, no se regenera
+- Dentina: forma la mayor parte del diente, contiene túbulos dentinarios
+- Pulpa: tejido vascular y nervioso en el centro del diente
+- Cemento: recubre la raíz
+- Ligamento periodontal: une el cemento al hueso alveolar
+- Hueso alveolar: soporte óseo del diente
+
+3. ENFERMEDAD PERIODONTAL
+
+3.1 Etiopatogenia
+La enfermedad periodontal es una infección bacteriana progresiva de los tejidos de soporte del diente (encía, ligamento periodontal, cemento, hueso alveolar).
+
+Progresión:
+Placa bacteriana → Cálculo dental (mineralización) → Gingivitis → Periodontitis → Pérdida dental
+
+3.2 Estadificación
+
+Estadio 1 - Gingivitis:
+- Encía roja, inflamada, sangra al sondaje
+- Sin pérdida de inserción
+- REVERSIBLE con tratamiento
+
+Estadio 2 - Periodontitis leve:
+- Pérdida de inserción <25%
+- Bolsas periodontales incipientes
+- Pérdida ósea radiográfica leve
+
+Estadio 3 - Periodontitis moderada:
+- Pérdida de inserción 25-50%
+- Bolsas periodontales moderadas
+- Movilidad dental leve
+- Pérdida ósea radiográfica evidente
+
+Estadio 4 - Periodontitis severa:
+- Pérdida de inserción >50%
+- Movilidad dental severa
+- Pérdida ósea extensa
+- Generalmente requiere extracción
+
+3.3 Signos Clínicos
+- Halitosis (signo más frecuente reportado por propietarios)
+- Sarro visible (depósito marrón/amarillo en dientes)
+- Encías rojas, inflamadas, sangrantes
+- Dolor al comer (preferencia por comida blanda, masticar de un lado)
+- Ptialismo (salivación excesiva)
+- Secreción nasal (si hay fístula oronasal)
+- Pérdida de dientes
+- Retracción de encías con exposición de raíces
+
+4. PROFILAXIS DENTAL
+
+4.1 Procedimiento de Limpieza Dental Profesional
+REQUIERE anestesia general (la limpieza dental sin anestesia NO es aceptable profesionalmente).
+
+Pasos:
+1. Evaluación preanestésica completa
+2. Anestesia general con intubación (proteger vía aérea)
+3. Examen oral completo con sonda periodontal (6 puntos por diente)
+4. Radiografías dentales intraorales (idealmente boca completa)
+5. Ultrasonido para eliminar cálculo supragingival
+6. Curetaje subgingival manual
+7. Pulido con pasta profiláctica (eliminar microrayaduras del esmalte)
+8. Lavado del surco gingival
+9. Aplicación de fluoruro (opcional)
+10. Registro dental completo en la ficha (chart dental)
+
+4.2 Cuidado Dental en Casa
+- Cepillado dental diario: método más efectivo de control de placa
+  * Usar cepillo de cerdas suaves y pasta dental veterinaria (NO usar pasta humana con flúor)
+  * Iniciar gradualmente, asociar con experiencia positiva
+- Dietas dentales: croquetas diseñadas para efecto abrasivo mecánico (Hill's t/d, Royal Canin Dental)
+- Productos con sello VOHC (Veterinary Oral Health Council): validados para reducir placa/cálculo
+- Juguetes masticables seguros
+- Aditivos para agua: clorhexidina diluida (0.12%)
+
+5. EXTRACCIONES DENTALES
+
+5.1 Indicaciones
+- Enfermedad periodontal estadio 3-4
+- Fractura dental con exposición pulpar que no es candidata a endodoncia
+- Reabsorción dental (especialmente en gatos)
+- Dientes deciduos persistentes
+- Dientes supernumerarios que causan apiñamiento
+- Neoplasia oral que afecta el diente
+
+5.2 Técnica de Extracción Simple
+1. Bloqueo nervioso regional (infraorbitario, alveolar inferior, mentoniano)
+2. Sindesmotomía: seccionar ligamento periodontal con elevador
+3. Luxación del diente con elevadores de diferentes tamaños
+4. Extracción con fórceps adecuado
+5. Curetaje del alvéolo
+6. Sutura de encía sobre el alvéolo (si es necesario)
+7. Radiografía post-extracción para confirmar remoción completa
+
+5.3 Técnica de Extracción Quirúrgica (colgajo mucoperióstico)
+Necesaria para dientes multirradiculares, raíces anquilosadas o fracturadas:
+1. Incisión de colgajo mucoperióstico
+2. Alveolotomía (remoción de hueso bucal) con fresa quirúrgica
+3. Sección del diente en secciones individuales (dientes multirradiculares)
+4. Extracción de cada raíz individualmente
+5. Alisado de bordes óseos
+6. Cierre del colgajo sin tensión
+
+6. LESIONES DE REABSORCIÓN DENTAL FELINA (FORL)
+- Patología específica y muy común en gatos (28-67% de gatos adultos)
+- Destrucción progresiva de la estructura dental por actividad odontoclástica
+- Causa desconocida
+
+Clasificación:
+- Tipo 1: reabsorción con ligamento periodontal visible en radiografía (raíz distinguible del hueso)
+- Tipo 2: raíz fusionada con hueso alveolar (reabsorción por reemplazo)
+- Tipo 3: combinación
+
+Tratamiento:
+- Tipo 1: extracción completa
+- Tipo 2: amputación coronaria (la raíz se está reabsorbiendo y fusionando con el hueso)
+
+7. COMPLICACIONES ODONTOLÓGICAS
+
+7.1 Fístula Oronasal
+- Comunicación entre cavidad oral y nasal por pérdida ósea periodontal severa del maxilar
+- Signos: estornudos, secreción nasal unilateral, generalmente asociada a caninos maxilares
+- Tratamiento: extracción del diente afectado + cierre con colgajo mucoperióstico
+
+7.2 Absceso Periapical
+- Infección de la pulpa dental que se extiende al periápice
+- Puede causar fístula cutánea infraorbitaria (perros) o submandibular
+- Tratamiento: extracción o tratamiento de conducto (endodoncia)
+
+7.3 Fractura Mandibular Patológica
+- En perros de razas pequeñas con enfermedad periodontal severa del primer molar inferior
+- El hueso alveolar se reabsorbe tanto que la mandíbula se fractura durante la masticación o extracción
+- Prevención: tratamiento periodontal temprano
+
+8. ESTOMATITIS CRÓNICA FELINA
+- Inflamación severa y dolorosa de la mucosa oral
+- Asociada frecuentemente a calicivirus, FIV, FeLV
+- Signos: dolor oral severo, ptialismo, anorexia, pérdida de peso
+- Tratamiento: extracciones de premolares y molares bilaterales (extracción parcial o completa)
+  * 60-80% de gatos mejoran significativamente tras extracciones
+  * Complementar con analgesia, antibioterapia si hay infección secundaria
+  * Casos refractarios: ciclosporina, interferón omega
+
+Fuentes: AVDC Nomenclature Committee, BSAVA Manual of Canine and Feline Dentistry, Veterinary Dentistry: Principles and Practice.

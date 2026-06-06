@@ -1,0 +1,41 @@
+# Guía de Diagnóstico Diferencial Basado en Síntomas (Diagnóstico a priori)
+
+Esta guía permite al profesional veterinario o al asistente clínico relacionar signos clínicos comunes con posibles patologías (diagnósticos diferenciales a priori) para orientar las pruebas de laboratorio o el manejo empírico inicial.
+
+## 1. Vómito Agudo
+- **Gastrointestinal:** Gastroenteritis dietética (transgresión alimentaria), cuerpo extraño gástrico/intestinal, parvovirosis (especialmente cachorros sin vacunar), parasitismo severo, intususcepción, vólvulo/torsión gástrica (urgencia vital, intentos improductivos de vómito).
+- **Extra-gastrointestinal:** Pancreatitis aguda (muy doloroso a la palpación), insuficiencia renal aguda o crónica descompensada (urémia), insuficiencia hepática, cetoacidosis diabética, piometra (hembras enteras), hipoadrenocorticismo (Enfermedad de Addison - "el gran imitador").
+- **Diferenciación vómito vs regurgitación:** La regurgitación (pasiva, sin esfuerzo abdominal, material en forma de tubo) indica patología esofágica (megaesófago, cuerpo extraño esofágico, miastenia gravis).
+
+## 2. Diarrea
+- **Diarrea de Intestino Delgado:** Volumen grande, frecuencia normal o levemente aumentada, melena (sangre digerida oscura), sin tenesmo, pérdida de peso crónica.
+  - *Causas:* Parásitos (Giardia, Toxocara), enteritis viral (Parvovirus, Coronavirus), sobrecrecimiento bacteriano (SIBO), insuficiencia pancreática exocrina (EPI), enfermedad inflamatoria intestinal (IBD).
+- **Diarrea de Intestino Grueso:** Volumen pequeño, mucha frecuencia, hematoquecia (sangre fresca roja), moco abundante, tenesmo severo.
+  - *Causas:* Colitis por estrés, Trichuris vulpis, alergia alimentaria, pólipos rectales, clostridiosis.
+
+## 3. Poliuria / Polidipsia (PU/PD)
+(Toma de agua excesiva > 100 ml/kg/día y orina excesiva).
+- **Endocrino/Metabólico:** Diabetes Mellitus (glucosa en orina arrastra agua), Hiperadrenocorticismo (Síndrome de Cushing), Hipoadrenocorticismo (Addison), Hipertiroidismo (frecuente en gatos).
+- **Renal:** Enfermedad renal crónica (ERC - pérdida de capacidad de concentración de la orina), Pielonefritis.
+- **Otros:** Piometra (por inhibición de la hormona antidiurética mediada por endotoxinas de E. coli), insuficiencia hepática, hipercalcemia (síndrome paraneoplásico), psicógena.
+
+## 4. Letargo y Debilidad Profunda
+- **Cardiovascular:** Falla cardíaca congestiva, efusión pericárdica (taponamiento cardíaco), hemorragia interna aguda (ej. ruptura de hemangiosarcoma esplénico - mucosas pálidas, tiempo de llenado capilar retardado).
+- **Metabólico:** Hipoglucemia (común en neonatos y razas Toy o por insulinoma), Anemia severa (inmunomediada, infecciosa por Erliquia/Babesia), Hipocalcemia (eclampsia post-parto).
+- **Neurológico:** Síndrome vestibular, lesiones espinales (paresia/plejía).
+
+## 5. Prurito Severo (Rascado Excesivo)
+- **Parasitario:** Pulgas (Dermatitis Alérgica a la Picadura de Pulga - DAPP, clásica en región lumbosacra), Sarna Sarcóptica (bordes de orejas, codos, muy contagiosa), Cheyletiella, Demodicosis (suele ser no pruriginosa a menos que haya infección bacteriana secundaria).
+- **Alérgico:** Dermatitis atópica (ambiental - patas, cara, axilas, vientre), Alergia alimentaria (frecuente afección perianal y otitis recurrentes).
+- **Infeccioso:** Pioderma bacteriana (Staphylococcus pseudintermedius), Malassezia (olor a levadura, pliegues cutáneos).
+
+## 6. Tos y Dificultad Respiratoria (Disnea)
+- **Cardíaca:** Edema pulmonar secundario a insuficiencia cardíaca izquierda (ej. enfermedad de la válvula mitral en razas pequeñas, cardiomiopatía dilatada en razas grandes). La tos cardíaca suele empeorar de noche o post-ejercicio.
+- **Respiratoria de Vías Altas:** Colapso traqueal (tos de "graznido de ganso", razas Toy), complejo respiratorio infeccioso (Traqueobronquitis infecciosa canina - tos seca paroxística al palpar la tráquea).
+- **Respiratoria de Vías Bajas:** Asma felino (patrón bronquial, disnea espiratoria), bronquitis crónica canina, neumonía bacteriana o por aspiración (fiebre, tos húmeda/productiva), neoplasia pulmonar.
+- **Espacio Pleural:** Derrame pleural (disnea restrictiva, ruidos cardíacos apagados), neumotórax.
+
+## 7. Ictericia (Mucosas Amarillas)
+- **Pre-hepática:** Hemólisis destructiva. Anemia Hemolítica Inmunomediada (AHIM), Babesiosis severa, intoxicación por cebolla/ajo o paracetamol (gatos).
+- **Hepática:** Hepatitis crónica, lipidosis hepática felina (gato obeso que deja de comer), colangiohepatitis, toxinas hepatocelulares.
+- **Post-hepática:** Obstrucción biliar. Mucocele biliar, pancreatitis severa (comprime el conducto biliar común), neoplasia pancreática o biliar.

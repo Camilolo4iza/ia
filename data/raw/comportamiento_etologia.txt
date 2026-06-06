@@ -1,0 +1,34 @@
+# Etología y Comportamiento Veterinario
+
+## Principios Básicos de Modificación de Conducta
+El manejo de problemas de comportamiento se basa en no castigar (ya que aumenta la ansiedad y agresión) y utilizar refuerzo positivo y desensibilización sistemática.
+
+## Problemas de Comportamiento Frecuentes
+
+### 1. Ansiedad por Separación (Perros)
+- **Definición:** Síndrome de angustia al separarse de la figura de apego.
+- **Signos Clínicos:** Destrucción en salidas (marcos de puertas, ventanas), vocalización excesiva inmediatamente al quedar solos, eliminación inapropiada (micción o defecación por pánico), hipersalivación.
+- **Manejo Ambiental/Conductual:**
+  - Evitar rituales de despedida o saludos efusivos al llegar.
+  - Dejar enriquecimiento ambiental (juguetes rellenables tipo Kong congelados).
+  - Desensibilización a las señales de salida (coger llaves, ponerse el abrigo, sin salir).
+- **Manejo Farmacológico (solo apoyo clínico severo):** Fluoxetina (1-2 mg/kg SID), Clomipramina (1-3 mg/kg BID), o Trazodona (como medicación de evento corto).
+
+### 2. Eliminación Inapropiada Felina
+- **Causa Médica vs Conductual:** Siempre descartar primero Cistitis Idiopática Felina (CIF), urolitos o infecciones antes de asumir que es conductual.
+- **Factores Ambientales:**
+  - Regla de oro de la arena: Número de gatos + 1 bandejas sanitarias.
+  - La arena debe ser aglomerante, sin perfumes, de textura fina.
+  - Las bandejas no deben estar cerca de la comida, ni en lugares ruidosos (lavadoras) o "encerrados".
+  - Nunca castigar al gato, lavar con detergentes enzimáticos (no cloro/lejía, que fija el olor a amoniaco).
+- **Uso de Feromonas:** Feliway Classic difusor en el área donde ocurre el problema conductual para aportar seguridad.
+
+### 3. Agresividad
+- **Agresividad por Miedo:** La más común en clínicas veterinarias. El animal intenta alejarse, mete la cola, echa orejas atrás, gruñe. Si se siente acorralado, muerde.
+  - Manejo: Evitar confrontación visual directa, movimientos lentos, uso de premios de alto valor (salchichas, paté), uso de medicación pre-consulta (Gabapentina 10-20 mg/kg 2h antes de la visita).
+- **Agresividad por Protección de Recursos:** El animal ataca si alguien se acerca a su comida, juguete o espacio de descanso.
+  - Manejo: Intercambio positivo (darle algo mejor a cambio de lo que tiene), evitar quitar las cosas a la fuerza.
+
+### 4. Fobias Sonoras (Pirotecnia/Tormentas)
+- **Definición:** Respuesta de pánico extremo ante estímulos auditivos fuertes.
+- **Manejo de Emergencia:** Crear zona segura (oscura, aislada, ruido blanco de fondo). Sileo (Dexmedetomidina oromucosal), Trazodona o Alprazolam (usar bajo estricta prescripción médica previa al evento sonoro). NUNCA usar Acepromazina (solo inmoviliza pero el pánico cerebral aumenta, incrementando la fobia).

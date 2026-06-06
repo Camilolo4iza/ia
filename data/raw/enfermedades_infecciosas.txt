@@ -1,0 +1,143 @@
+ENFERMEDADES INFECCIOSAS EN PEQUEÑOS ANIMALES
+
+1. INTRODUCCIÓN
+Las enfermedades infecciosas representan una causa importante de morbilidad y mortalidad en perros y gatos. El diagnóstico temprano, el tratamiento adecuado y la prevención mediante vacunación son fundamentales para el control de estas patologías.
+
+2. ENFERMEDADES INFECCIOSAS CANINAS
+
+2.1 Parvovirosis Canina
+Agente: Parvovirus canino tipo 2 (CPV-2) y sus variantes (CPV-2a, CPV-2b, CPV-2c)
+Transmisión: Fecal-oral, fómites. El virus es extremadamente resistente en el ambiente (meses a años).
+
+Signos clínicos:
+- Forma enterítica (más común): vómitos profusos, diarrea hemorrágica (olor fétido característico), anorexia, deshidratación severa, fiebre seguida de hipotermia, leucopenia
+- Forma miocárdica (rara, cachorros neonatos): muerte súbita por miocarditis
+
+Diagnóstico:
+- SNAP test (ELISA) de antígeno fecal: rápido, sensibilidad 80-95%
+- PCR fecal: mayor sensibilidad
+- Hemograma: leucopenia (neutropenia severa) es marcador pronóstico
+
+Tratamiento (soporte intensivo):
+- Fluidoterapia agresiva IV: cristaloides + coloides si es necesario
+- Antieméticos: maropitant (1 mg/kg SC/IV SID), ondansetrón (0.5 mg/kg IV TID)
+- Antibioterapia de amplio espectro: ampicilina (22 mg/kg IV TID) + enrofloxacina (5 mg/kg IV SID) o cefazolina + metronidazol
+- Nutrición enteral temprana: sonda nasoesofágica con dieta líquida apenas cesen los vómitos
+- Plasma fresco congelado u Ospen (interferón omega felino) en casos graves
+- Analgesia: buprenorfina para dolor abdominal
+- Monitoreo de glucemia (riesgo de hipoglucemia)
+
+Pronóstico: Con tratamiento intensivo, supervivencia del 70-90%. Sin tratamiento, mortalidad del 90%.
+
+2.2 Leptospirosis
+Agente: Espiroquetas del género Leptospira (L. canicola, L. icterohaemorrhagiae, L. grippotyphosa, L. pomona)
+Transmisión: Contacto con orina de animales infectados (roedores), agua o suelo contaminado. ZOONOSIS.
+
+Signos clínicos:
+- Forma aguda: fiebre, vómitos, diarrea, dolor muscular, ictericia
+- Insuficiencia renal aguda: oliguria/anuria, azotemia, dolor renal
+- Insuficiencia hepática: ictericia, elevación de transaminasas
+- Coagulopatía: petequias, hematemesis
+- Forma pulmonar: hemorragia pulmonar (emergente)
+
+Diagnóstico:
+- Serología MAT (Microagglutination Test): gold standard, títulos pareados
+- PCR en sangre (fase aguda) y orina
+- Hemograma: leucocitosis, trombocitopenia
+- Bioquímica: azotemia, elevación de transaminasas, bilirrubina
+
+Tratamiento:
+- Fase aguda: ampicilina 22 mg/kg IV TID o penicilina G
+- Fase de eliminación: doxiciclina 5 mg/kg BID x 14 días (elimina estado de portador)
+- Soporte renal: fluidoterapia intensiva, diuréticos si oliguria, diálisis en casos refractarios
+- Antibioterapia de amplio espectro si hay compromiso multisistémico
+
+2.3 Ehrlichiosis Canina
+Agente: Ehrlichia canis (intracelular obligado en monocitos)
+Transmisión: Garrapata Rhipicephalus sanguineus (garrapata marrón del perro)
+
+Fases:
+- Aguda (1-3 semanas post-infección): fiebre, linfadenopatía, esplenomegalia, trombocitopenia
+- Subclínica: meses a años, trombocitopenia persistente
+- Crónica: pancitopenia, aplasia medular, epistaxis, pérdida de peso, insuficiencia renal
+
+Diagnóstico: SNAP 4Dx (anticuerpos), PCR, observación de mórulas en monocitos (frotis)
+
+Tratamiento: Doxiciclina 5 mg/kg BID x 28 días
+
+3. ENFERMEDADES INFECCIOSAS FELINAS
+
+3.1 Peritonitis Infecciosa Felina (PIF)
+Agente: Coronavirus felino (FCoV) mutado a forma virulenta (FIPV)
+Prevalencia: Común en gatos jóvenes, criaderos y refugios
+
+Formas clínicas:
+- Forma húmeda (efusiva): acumulación de líquido de alta proteína en abdomen y/o tórax. Líquido amarillo pajizo, viscoso, con alto contenido de proteínas (>3.5 g/dL) y bajo en células. Rivalta positivo.
+- Forma seca (no efusiva): granulomas en órganos (riñones, hígado, SNC, ojos). Signos neurológicos, uveítis, fiebre no responsiva, pérdida de peso.
+
+Diagnóstico:
+- Efusión: análisis de líquido (proteína alta, ratio albúmina:globulina <0.4), test de Rivalta, inmunofluorescencia o PCR en efusión
+- Forma seca: más difícil, combinación de signos clínicos, bioquímica (hiperglobulinemia, ratio A:G <0.6), PCR en biopsias
+- Serología de FCoV: NO es diagnóstica (solo indica exposición al coronavirus)
+
+Tratamiento:
+- GS-441524 (análogo de nucleósido): tratamiento emergente con alta tasa de remisión (>80%)
+- Dosis: 4-8 mg/kg SC SID x 84 días (forma húmeda), 6-10 mg/kg para neurológica/ocular
+- Tratamiento de soporte: drenaje de efusiones, fluidoterapia, estimulantes de apetito
+- Antes de GS-441524, el PIF era considerado uniformemente fatal
+
+3.2 Virus de Leucemia Felina (FeLV)
+Agente: Retrovirus (gammaretrovirus)
+Transmisión: Contacto directo prolongado (saliva, acicalamiento mutuo, platos compartidos), transplacentaria
+
+Resultados de la infección:
+- Viremia transitoria con eliminación: 60-70% de gatos adultos inmunocompetentes
+- Infección regresiva (latente): virus integrado en ADN, PCR positivo, antígeno negativo
+- Infección progresiva: viremia persistente, antígeno positivo, pronóstico reservado
+
+Enfermedades asociadas a FeLV:
+- Inmunosupresión (causa principal de muerte): infecciones oportunistas
+- Linfoma y leucemia
+- Anemia no regenerativa (aplasia pura de serie roja)
+- Mielosupresión
+
+Diagnóstico:
+- SNAP test (ELISA): detecta antígeno p27 en sangre
+- IFA: confirma integración viral en leucocitos
+- PCR: detecta provirus integrado (infección regresiva)
+
+Manejo:
+- No hay tratamiento antiviral efectivo
+- Tratamiento de infecciones secundarias y complicaciones
+- Mantener como gato de interior exclusivo
+- Monitoreo regular (hemograma, bioquímica cada 6 meses)
+- Pronóstico: gatos con viremia progresiva, supervivencia media de 2-3 años
+
+3.3 Virus de Inmunodeficiencia Felina (FIV)
+Agente: Lentivirus (similar al VIH humano, pero NO es zoonótico)
+Transmisión: Principal vía: mordeduras (saliva). Machos enteros con acceso al exterior tienen mayor riesgo.
+
+Fases:
+- Aguda: fiebre transitoria, linfadenopatía, 2-4 semanas post-infección
+- Asintomática: años (el gato puede vivir normalmente por mucho tiempo)
+- SIDA felino: inmunosupresión terminal con infecciones oportunistas, estomatitis crónica, enfermedad renal, neoplasias
+
+Diagnóstico: SNAP test (anticuerpos anti-FIV). Confirmar positivos con Western Blot o PCR.
+NOTA: gatitos <6 meses pueden tener anticuerpos maternos (falsos positivos); repetir test a los 6 meses.
+
+Manejo:
+- No hay cura; tratamiento de soporte y de infecciones secundarias
+- Castrar para reducir peleas y transmisión
+- Mantener como gato de interior
+- Gatos FIV+ pueden vivir muchos años con buena calidad de vida
+- Estomatitis crónica: extracciones dentales + inmunomoduladores
+
+4. ENFERMEDADES COMPARTIDAS
+
+4.1 Rabia
+- Enfermedad zoonótica mortal, de declaración obligatoria
+- Período de incubación variable (semanas a meses)
+- Formas: furiosa (agresividad) y paralítica (parálisis progresiva)
+- No hay tratamiento; prevención con vacunación es la única medida efectiva
+
+Fuentes: ABCD Guidelines on Feline Infectious Diseases, ACVIM Consensus Statements, Manual Merck Veterinario.

@@ -1,0 +1,33 @@
+# Neurología Veterinaria
+
+## Examen Neurológico Básico
+El examen neurológico en pequeños animales evalúa el estado mental, postura, marcha, nervios craneales, reacciones posturales y reflejos espinales. El objetivo es localizar la lesión (ej. encéfalo, médula espinal cervical, toracolumbar, o sistema nervioso periférico).
+
+## Síndromes Comunes
+### 1. Síndrome Vestibular
+- **Signos:** Inclinación de cabeza, nistagmo (horizontal o rotatorio en periférico; vertical o posicional en central), ataxia asimétrica, estrabismo posicional.
+- **Causas Periféricas:** Otitis media/interna, pólipos inflamatorios (gatos), hipotiroidismo, idiopático (perros viejos).
+- **Causas Centrales:** Neoplasias, encefalitis (Moquillo, PIF), infartos.
+- **Manejo:** Tratar la causa subyacente. Antieméticos (maropitant, ondansetrón) para el mareo.
+
+### 2. Epilepsia y Convulsiones
+- **Definición:** Epilepsia idiopática suele presentarse entre los 6 meses y 6 años de edad, con examen neurológico interictal normal.
+- **Manejo de Urgencia (Status Epilepticus):** 
+  - Diazepam (0.5 - 1 mg/kg IV o intrarrectal) o Midazolam (0.2 mg/kg IV/IM).
+  - Si no cede: Fenobarbital IV (bolo inicial de 2-4 mg/kg), Propofol a efecto, o Levetiracetam (20-60 mg/kg IV lento).
+- **Terapia de Mantenimiento:**
+  - Fenobarbital: 2-3 mg/kg BID. Monitorear enzimas hepáticas y niveles séricos.
+  - Bromuro de Potasio: Solo en perros (causa neumonitis en gatos).
+  - Levetiracetam: 20 mg/kg TID (vida media corta) o de liberación prolongada BID.
+
+### 3. Enfermedad de Disco Intervertebral (IVDD)
+- **Tipo I (Extrusión Hansen):** Aguda, común en razas condrodistróficas (Teckel, Bulldog Francés). Ruptura del anillo fibroso con extrusión del núcleo pulposo.
+- **Tipo II (Protrusión Hansen):** Crónica, común en razas grandes. Hipertrofia del anillo fibroso.
+- **Grados Clínicos:**
+  1. Dolor espinal hiperestésico.
+  2. Ataxia, paresia ambulatoria.
+  3. Paresia no ambulatoria.
+  4. Plejía con retención urinaria.
+  5. Plejía sin dolor profundo (emergencia quirúrgica < 24 hrs).
+- **Tratamiento Médico:** Reposo estricto en jaula (4-6 semanas), AINEs o Corticosteroides (NUNCA JUNTOS), Gabapentina, Relajantes musculares (Metocarbamol).
+- **Tratamiento Quirúrgico:** Hemilaminectomía, laminectomía dorsal o fenestración profiláctica, indicado en grados 3-5 o dolor intratable.

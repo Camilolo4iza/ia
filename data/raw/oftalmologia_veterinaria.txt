@@ -1,0 +1,29 @@
+# Oftalmología Veterinaria
+
+## Examen Oftalmológico
+El examen debe realizarse en una habitación con poca luz. Consta de pruebas de reflejos pupilares (PLR), reflejo de amenaza, test de lágrima de Schirmer (STT), tinción de fluoresceína y tonometría.
+
+## Patologías Oculares Comunes
+
+### 1. Úlceras Corneales
+- **Diagnóstico:** Tinción con fluoresceína positiva.
+- **Úlcera Simple:** Superficial, sin infección evidente. 
+  - Tratamiento: Antibiótico tópico de amplio espectro (Tobramicina, Ciprofloxacino), Ciclopléjico para el espasmo ciliar (Atropina 1%, ¡CUIDADO en glaucoma!), y Collar Isabelino.
+  - Contraindicación Absoluta: NUNCA usar corticosteroides tópicos en pacientes con úlceras.
+- **Úlcera Indolente (Defecto Epitelial Crónico o SCCED):** Úlceras que no sanan, con bordes epiteliales desprendidos, típicas en Bóxer. Requieren desbridamiento con hisopo y queratotomía en rejilla o fresado (solo en perros).
+- **Úlcera Profunda/Desmetocele:** Emergencia oftalmológica. No usar queratotomía. Requiere tratamiento médico intensivo (suero autólogo para frenar colagenasas) o cirugía (injerto conjuntival).
+
+### 2. Queratoconjuntivitis Seca (KCS o "Ojo Seco")
+- **Causa:** Principalmente inmunomediada (destrucción de la glándula lagrimal). Frecuente en Cocker, Bulldog, Pug.
+- **Diagnóstico:** Test de Schirmer < 15 mm/min (normalmente en perros es > 15 mm/min).
+- **Tratamiento:** Inmunosupresores tópicos (Ciclosporina A al 0.2% o 1%, Tacrolimus), lubricantes oculares crónicos (ácido hialurónico, carbómeros). Tratamiento de por vida.
+
+### 3. Glaucoma
+- **Definición:** Presión Intraocular (PIO) elevada > 25 mmHg, que daña el nervio óptico y la retina causando ceguera rápida.
+- **Signos Clínicos:** Dolor intenso, blefaroespasmo, edema corneal ("ojo azul"), congestión epiescleral, midriasis arreactiva.
+- **Manejo de Emergencia:** Manitol IV (1-2 g/kg lento) si no hay insuficiencia renal, análogos de prostaglandinas (Latanoprost tópico, NO usar en uveítis profunda), inhibidores de anhidrasa carbónica (Dorzolamida). Derivar a oftalmólogo para cirugía (ablación ciliar, válvula).
+
+### 4. Cataratas
+- **Definición:** Opacidad del cristalino. A diferencia de la esclerosis nuclear (envejecimiento normal donde se ve el fondo de ojo), en la catarata el reflejo tapetal está bloqueado.
+- **Causas:** Genética/Hereditaria, Diabetes Mellitus (catarata diabética es rápida e induce uveítis facolítica), trauma.
+- **Tratamiento:** El único tratamiento curativo es quirúrgico (Facoemulsificación con lente intraocular). El manejo médico es solo para la uveítis inducida por el cristalino (AINEs tópicos).

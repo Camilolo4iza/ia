@@ -1,0 +1,129 @@
+URGENCIAS VETERINARIAS — PROTOCOLOS DE MANEJO DE EMERGENCIAS
+
+1. INTRODUCCIÓN
+Las emergencias veterinarias requieren una evaluación rápida y sistemática para estabilizar al paciente y prevenir la muerte. Este documento cubre las urgencias más frecuentes en pequeños animales y sus protocolos de manejo en clínica veterinaria.
+
+2. TRIAGE Y EVALUACIÓN INICIAL
+El triage veterinario clasifica a los pacientes según la gravedad:
+
+Categoría 1 (ROJA - Inmediata): Paro cardiorrespiratorio, dificultad respiratoria severa, hemorragia activa no controlada, shock.
+Categoría 2 (NARANJA - Muy urgente): Dilatación-vólvulo gástrica, trauma severo, convulsiones activas, envenenamiento agudo.
+Categoría 3 (AMARILLA - Urgente): Fracturas abiertas, vómitos/diarrea persistentes con deshidratación, retención urinaria.
+Categoría 4 (VERDE - Menos urgente): Laceraciones menores, otitis, cojera sin fractura.
+
+Evaluación primaria (ABC):
+A - Airway (vía aérea): Verificar permeabilidad, eliminar obstrucciones
+B - Breathing (respiración): Evaluar frecuencia, esfuerzo y patrón respiratorio
+C - Circulation (circulación): Evaluar FC, pulso, TRC, color de mucosas, presión arterial
+
+3. SÍNDROME DE DILATACIÓN-VÓLVULO GÁSTRICA (DVG)
+La DVG es una emergencia quirúrgica con alta mortalidad. Afecta principalmente a razas grandes y gigantes de tórax profundo (Gran Danés, Pastor Alemán, San Bernardo, Setter Irlandés).
+
+Signos clínicos:
+- Distensión abdominal severa y timpanismo
+- Intentos improductivos de vómito (arcadas sin vomitar)
+- Hipersalivación
+- Inquietud, dolor abdominal
+- Taquicardia, pulso débil, mucosas pálidas (shock)
+
+Protocolo de manejo:
+1. Estabilización hemodinámica: acceso venoso bilateral con catéteres de gran calibre, fluidoterapia agresiva con cristaloides (90 ml/kg/h en la primera hora para perros en shock)
+2. Descompresión gástrica: trocarización percutánea con aguja 18G o paso de sonda orogástrica
+3. Radiografía lateral derecha para confirmar vólvulo (signo del doble burbuja o shelf sign)
+4. Analgesia: opioides (metadona 0.3 mg/kg IV o fentanilo 2-5 mcg/kg IV)
+5. ECG: monitorear arritmias ventriculares (comunes post-DVG)
+6. Cirugía: gastropexia incisional + derotación + evaluar viabilidad gástrica y esplénica
+7. Cuidados post-operatorios: monitoreo de arritmias por 72 horas, lidocaína en infusión continua si hay TV
+
+4. ENVENENAMIENTOS
+
+4.1 Intoxicación por Rodenticidas Anticoagulantes
+Los rodenticidas de segunda generación (brodifacoum, bromadiolona) inhiben la vitamina K y causan coagulopatía.
+
+Signos clínicos (aparecen 2-5 días post-ingestión):
+- Hemorragias: epistaxis, hematemesis, melena, hematuria, petequias
+- Disnea por hemotórax
+- Debilidad, palidez, colapso
+
+Diagnóstico: Tiempos de coagulación prolongados (PT, aPTT, ACT)
+
+Tratamiento:
+- Si la ingestión fue reciente (<2 horas): inducir emesis con peróxido de hidrógeno al 3% (2 ml/kg, máximo 45 ml) seguido de carbón activado (1-2 g/kg)
+- Vitamina K1: 2.5-5 mg/kg PO dividido en 2 dosis, con comida grasa (mejora absorción), durante 4-6 semanas según el producto
+- Transfusión de plasma fresco congelado o sangre entera si hay hemorragia activa
+- Control de PT a las 48 horas de suspender vitamina K1
+
+4.2 Intoxicación por Chocolate (Teobromina)
+La teobromina es tóxica para perros. La toxicidad depende del tipo de chocolate:
+- Chocolate blanco: riesgo mínimo
+- Chocolate con leche: teobromina ~2 mg/g
+- Chocolate oscuro: teobromina ~5-8 mg/g
+- Cacao en polvo: teobromina ~14-26 mg/g
+
+Dosis tóxicas:
+- Signos leves (vómitos, diarrea): 20 mg/kg
+- Signos cardiovasculares (taquicardia, arritmias): 40-50 mg/kg
+- Convulsiones: >60 mg/kg
+
+Tratamiento: Emesis (si <2 horas), carbón activado, fluidoterapia, monitoreo ECG, diazepam para convulsiones.
+
+4.3 Intoxicación por Xilitol
+El xilitol (edulcorante artificial) es extremadamente tóxico para perros. Causa liberación masiva de insulina con hipoglucemia severa (dosis >0.1 g/kg) y, a dosis más altas (>0.5 g/kg), necrosis hepática aguda.
+
+Signos: Vómitos, debilidad, ataxia, convulsiones, colapso, ictericia (si hay fallo hepático)
+
+Tratamiento: Emesis temprana, dextrosa IV (0.5 g/kg en bolo, luego infusión al 2.5-5%), monitoreo de glucemia cada 1-2 horas, hepatoprotectores (SAMe, silimarina).
+
+4.4 Intoxicación por Permetrina en Gatos
+La aplicación de productos con permetrina (formulados para perros) en gatos causa neurotoxicidad severa.
+
+Signos: Temblores musculares, convulsiones, hipertermia, hipersalivación (aparecen 1-12 horas post-exposición)
+
+Tratamiento: Baño con detergente para eliminar el producto, control de temblores con metocarbamol (55-220 mg/kg IV, no exceder 330 mg/kg/día) o diazepam, termorregulación, fluidoterapia. Pronóstico bueno con tratamiento agresivo.
+
+5. EMERGENCIAS RESPIRATORIAS
+
+5.1 Edema Pulmonar Agudo
+Puede ser cardiogénico (ICC) o no cardiogénico (electrocución, neurogénico).
+Signos: Disnea severa, ortopnea, tos con espuma rosada, crepitaciones a la auscultación.
+Tratamiento: Oxigenoterapia, furosemida (2-4 mg/kg IV en perros, 1-2 mg/kg en gatos), sedación leve si hay ansiedad severa, posición esternal.
+
+5.2 Neumotórax
+Acumulación de aire en espacio pleural. Puede ser traumático, espontáneo o iatrogénico.
+Signos: Disnea, disminución de sonidos pulmonares, taquicardia.
+Tratamiento: Toracocentesis de emergencia con aguja mariposa o catéter 18-20G conectado a llave de tres vías, considerar tubo de toracostomía si es recurrente.
+
+6. SHOCK
+
+6.1 Shock Hipovolémico
+Causa más común: hemorragia (trauma, coagulopatía, rotura esplénica).
+Parámetros de shock en perro: FC >160, TRC >2 seg, mucosas pálidas, PA sistólica <90 mmHg, lactato >2.5 mmol/L.
+
+Fluidoterapia de shock:
+- Perros: cristaloides 60-90 ml/kg/h (administrar en alícuotas de 20 ml/kg y reevaluar)
+- Gatos: cristaloides 40-60 ml/kg/h (administrar en alícuotas de 10-15 ml/kg)
+- Coloides: 5-20 ml/kg si no hay respuesta a cristaloides
+- Vasopresores si no responde a fluidos: norepinefrina 0.1-2 mcg/kg/min
+
+7. REANIMACIÓN CARDIOPULMONAR (RCP)
+Seguir las directrices RECOVER:
+
+Compresiones torácicas:
+- Frecuencia: 100-120 compresiones/min
+- Profundidad: 1/3 a 1/2 del ancho del tórax
+- Perros <10 kg y gatos: compresión lateral o directamente sobre el corazón
+- Perros >10 kg: compresión lateral del tórax a nivel del punto más ancho
+
+Ventilación:
+- 10 respiraciones/min
+- 1 ventilación cada 6 segundos
+- Volumen tidal: 10 ml/kg
+
+Fármacos:
+- Epinefrina: 0.01 mg/kg IV cada 3-5 minutos (dosis baja)
+- Atropina: 0.04 mg/kg IV si hay bradicardia/asistolia
+- Vasopresina: 0.8 U/kg IV, puede usarse como alternativa a la epinefrina
+
+Evaluar ritmo cada 2 minutos. Desfibrilación para fibrilación ventricular si se dispone de desfibrilador.
+
+Fuentes: RECOVER Guidelines 2024, BSAVA Manual of Canine and Feline Emergency Medicine, Manual Merck Veterinario.

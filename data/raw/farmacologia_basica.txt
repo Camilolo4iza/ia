@@ -1,0 +1,207 @@
+FARMACOLOGÍA VETERINARIA BÁSICA — FÁRMACOS ESENCIALES EN CLÍNICA
+
+1. INTRODUCCIÓN
+La farmacología veterinaria es fundamental para el tratamiento de enfermedades en pequeños animales. Este documento recopila los fármacos más utilizados en la clínica veterinaria de perros y gatos, con sus indicaciones, dosis, vías de administración, efectos adversos e interacciones importantes.
+
+2. ANTIBIÓTICOS
+
+2.1 Betalactámicos
+
+Amoxicilina:
+- Espectro: Gram positivos, algunos Gram negativos
+- Dosis: 10-20 mg/kg PO BID
+- Indicaciones: infecciones de tracto urinario, piel, respiratorias
+- Presentación: tabletas, suspensión oral
+
+Amoxicilina + Ácido Clavulánico:
+- Espectro: amplio, incluyendo productores de betalactamasas
+- Dosis: 12.5-25 mg/kg PO BID
+- Indicaciones: pioderma, ITU complicada, infecciones respiratorias, abscesos
+- El ácido clavulánico inhibe betalactamasas bacterianas
+
+Cefalexina:
+- Cefalosporina de primera generación
+- Espectro: Gram positivos (Staphylococcus), algunos Gram negativos
+- Dosis: 22-30 mg/kg PO BID
+- Indicaciones: pioderma (primera línea), ITU, heridas infectadas
+- Duración: 3-4 semanas para pioderma superficial, 6-8 semanas para profunda
+
+Cefovecina (Convenia):
+- Cefalosporina inyectable de larga acción
+- Dosis: 8 mg/kg SC, dosis única (duración 14 días)
+- Indicaciones: infecciones de piel y tejidos blandos, ITU en gatos
+- Precaución: uso prudente, no para infecciones que requieran tratamiento prolongado
+
+2.2 Fluoroquinolonas
+
+Enrofloxacina:
+- Espectro: amplio, especialmente Gram negativos
+- Dosis perro: 5-20 mg/kg PO/IV SID
+- Dosis gato: 5 mg/kg PO SID (NO exceder, riesgo de retinotoxicidad en gatos)
+- CONTRAINDICADO en animales en crecimiento (daño cartílago de crecimiento)
+- Indicaciones: ITU complicada, prostatitis, infecciones respiratorias profundas
+
+Marbofloxacina:
+- Dosis: 2-5.5 mg/kg PO SID
+- Perfil similar a enrofloxacina, mejor tolerado en gatos
+
+2.3 Tetraciclinas
+
+Doxiciclina:
+- Dosis: 5 mg/kg PO BID o 10 mg/kg PO SID
+- Indicaciones clave: ehrlichiosis (28 días), leptospirosis (fase de eliminación), micoplasmosis, Chlamydophila
+- Administrar con alimento (evitar esofagitis, especialmente en gatos — siempre seguir con agua)
+- No administrar con lácteos, antiácidos o sucralfato (quelación)
+
+2.4 Metronidazol
+- Espectro: anaerobios y protozoos (Giardia)
+- Dosis: 10-15 mg/kg PO BID (perros), 10 mg/kg PO BID (gatos)
+- Indicaciones: diarrea por Giardia, Clostridium, colitis, infecciones anaerobias
+- Toxicidad neurológica en dosis altas o uso prolongado: ataxia, nistagmo, convulsiones
+
+2.5 Principios de Uso Responsable de Antibióticos
+- Realizar cultivo y antibiograma siempre que sea posible
+- Usar antibióticos de primera línea antes de recurrir a los de espectro más amplio
+- Completar siempre el tratamiento prescrito
+- No usar antibióticos de importancia crítica en humanos como primera línea
+
+3. ANTIINFLAMATORIOS
+
+3.1 AINEs (Antiinflamatorios No Esteroideos)
+
+Meloxicam:
+- Inhibidor preferencial de COX-2
+- Dosis perro: 0.2 mg/kg PO/SC día 1, luego 0.1 mg/kg SID
+- Dosis gato: 0.1 mg/kg SC dosis única, luego 0.05 mg/kg PO SID (máximo 3-5 días) o dosis ajustada para uso crónico bajo supervisión
+- Indicaciones: dolor postquirúrgico, osteoartritis, inflamación
+- Precaución: no usar en pacientes deshidratados, con enfermedad renal o hepática, ni concurrente con corticoides
+
+Carprofeno:
+- Dosis perro: 4.4 mg/kg PO SID o 2.2 mg/kg BID
+- Indicaciones: dolor musculoesquelético, postquirúrgico, osteoartritis
+- No recomendado en gatos
+
+Robenacoxib (Onsior):
+- Inhibidor selectivo COX-2
+- Dosis perro: 1-2 mg/kg PO SID
+- Dosis gato: 1-2.4 mg/kg PO SID (máximo 3 días perioperatorio, hasta 6 días para dolor musculoesquelético)
+- Mejor perfil de seguridad en gatos que otros AINEs
+
+Regla importante: NUNCA combinar AINEs entre sí ni con corticoides (riesgo de úlceras GI, perforación, insuficiencia renal aguda). Esperar al menos 5-7 días de washout al cambiar.
+
+3.2 Corticoides
+
+Prednisona/Prednisolona:
+- Dosis antiinflamatoria: 0.5-1 mg/kg PO SID
+- Dosis inmunosupresora: 2-4 mg/kg PO SID
+- Indicaciones: alergias, enfermedades inmunomediadas (AHIM, trombocitopenia), asma felina, IBD, linfoma
+- En gatos: usar prednisolona (no prednisona, la convierten mal)
+- Efectos adversos con uso crónico: PU/PD, polifagia, aumento de peso, diabetes iatrogénica, piel delgada, infecciones, úlceras GI, hiperadrenocorticismo iatrogénico
+- Retirar gradualmente (no suspender abruptamente)
+
+Dexametasona:
+- Potencia 7x mayor que prednisolona
+- Dosis: 0.1-0.3 mg/kg IV/IM/SC
+- Indicaciones: antiinflamatorio potente, shock, edema cerebral
+- Mayor riesgo de efectos adversos que prednisona
+
+4. ANALGÉSICOS
+
+4.1 Opioides (ver también Anestesia Veterinaria)
+- Tramadol: 2-5 mg/kg PO BID-TID (perro), 1-2 mg/kg PO BID (gato)
+  Analgesia moderada, sabor muy amargo (difícil en gatos)
+- Gabapentina: 5-10 mg/kg PO BID-TID
+  Dolor neuropático y crónico, ansiolítico en gatos, excelente para osteoartritis crónica
+
+4.2 Otros Analgésicos
+- Amantadina: 3-5 mg/kg PO SID
+  Antagonista NMDA, útil como adyuvante en dolor crónico refractario
+- Paracetamol: SOLO en perros 10-15 mg/kg PO BID — TÓXICO EN GATOS (metahemoglobinemia, hepatotoxicidad)
+
+5. ANTIEMÉTICOS
+
+Maropitant (Cerenia):
+- Antagonista NK1
+- Dosis: 1 mg/kg SC/IV SID o 2 mg/kg PO SID
+- Antiemético más potente disponible
+- También tiene propiedades analgésicas viscerales
+- Indicaciones: vómitos de cualquier causa, cinetosis
+
+Metoclopramida:
+- Procinético y antiemético (antagonista D2)
+- Dosis: 0.5 mg/kg PO/SC TID o 1-2 mg/kg/día en infusión continua
+- Indicaciones: vómitos, reflujo gastroesofágico, gastroparesia
+- Efectos adversos: signos extrapiramidales (raro)
+
+Ondansetrón:
+- Antagonista 5-HT3
+- Dosis: 0.5-1 mg/kg IV BID-TID
+- Indicaciones: vómitos severos (parvovirosis, quimioterapia)
+
+6. GASTROPROTECTORES
+
+Omeprazol:
+- Inhibidor de bomba de protones
+- Dosis: 1 mg/kg PO SID-BID
+- Indicaciones: úlceras gástricas, esofagitis, gastritis, uso de AINEs a largo plazo
+- Administrar 30 minutos antes de la comida
+
+Sucralfato:
+- Protector de mucosa (se adhiere a úlceras)
+- Dosis: 0.5-1 g/perro PO TID, 0.25 g/gato PO TID
+- Administrar en ayunas, separado de otros medicamentos (interfiere con absorción)
+- No dar con antiácidos
+
+7. ANTIPARASITARIOS (ver documento de Desparasitación)
+
+8. FÁRMACOS CARDIOVASCULARES
+
+Pimobendan:
+- Inodilatador (sensibilizador de calcio + inhibidor de PDE3)
+- Dosis: 0.25 mg/kg PO BID (con el estómago vacío, 1 hora antes de comida)
+- Indicaciones: EVDM estadio B2 y C, CMD, ICC
+
+Furosemida:
+- Diurético de asa
+- Dosis: 1-4 mg/kg PO/IV BID-TID
+- Indicaciones: ICC (edema pulmonar, ascitis)
+- Monitorear: deshidratación, hipopotasemia, azotemia prerenal
+
+Benazepril/Enalapril:
+- IECA (inhibidor de enzima convertidora de angiotensina)
+- Dosis: 0.5 mg/kg PO SID-BID
+- Indicaciones: ICC, proteinuria renal, hipertensión
+- Benazepril preferido en gatos (excreción biliar, no depende de función renal)
+
+Amlodipino:
+- Bloqueador de canales de calcio
+- Dosis gato: 0.625-1.25 mg/gato PO SID
+- Dosis perro: 0.1-0.5 mg/kg PO SID
+- Indicaciones: hipertensión sistémica (primera línea en gatos)
+
+9. OTROS FÁRMACOS IMPORTANTES
+
+Metformina/Insulina (Diabetes):
+- Insulina glargina: 0.25-0.5 UI/kg SC BID (gatos, primera línea)
+- Insulina NPH: 0.25-0.5 UI/kg SC BID (perros)
+- Monitorear con curvas de glucosa y fructosamina
+
+Methimazol (Hipertiroidismo felino):
+- Dosis: 2.5-5 mg PO BID
+- Monitorear T4, función renal (puede desenmascarar ERC oculta)
+
+Ciclosporina:
+- Inmunosupresor
+- Dosis: 5 mg/kg PO SID
+- Indicaciones: dermatitis atópica, IBD, anemia hemolítica inmunomediada, fístulas perianales
+
+10. INTERACCIONES FARMACOLÓGICAS IMPORTANTES
+- AINEs + Corticoides: PROHIBIDO (ulceración GI grave)
+- AINEs + AINEs: PROHIBIDO
+- Enrofloxacina + Teofilina: toxicidad por teofilina
+- Metronidazol + Alcohol: reacción disulfiram
+- Doxiciclina + Antiácidos/Calcio: quelación, reducción de absorción
+- Cisaprida + Ketoconazol: arritmias cardíacas
+- Paracetamol en GATOS: LETAL
+
+Fuentes: Plumb's Veterinary Drug Handbook, BSAVA Small Animal Formulary, Manual Merck Veterinario.

@@ -1,0 +1,33 @@
+# Reproducción y Neonatología Veterinaria
+
+## Fisiología Reproductiva
+### Ciclo Estral Canino
+- **Proestro (9 días aprox):** Atracción de machos pero no acepta la monta. Edema vulvar, descarga serosanguinolenta. Citología: células eritrocitos, intermedias y superficiales mixtas.
+- **Estro (9 días aprox):** Acepta al macho. Vulva flácida, descarga pajiza. Citología: >80% células superficiales cornificadas anucleadas. Ovulación ocurre a los 2-3 días del pico de LH.
+- **Diestro (60 días aprox):** Rechazo del macho. Predomina la progesterona. Citología: aparición súbita de células parabasales y neutrófilos.
+- **Anestro (3-5 meses):** Fase de inactividad ovárica.
+
+### Ciclo Estral Felino
+- Gatas son poliéstricas estacionales de ovulación inducida. La ovulación es estimulada por las espículas del pene del macho durante la cópula.
+
+## Patologías Reproductivas
+
+### 1. Piometra
+- **Definición:** Infección purulenta del útero, generalmente mediada por progesterona durante el diestro (4-8 semanas post-celo). Ocurre por hiperplasia endometrial quística secundaria a estímulos hormonales repetidos.
+- **Clínica:** Poliuria/polidipsia severa, letargo, anorexia, vómito, descarga vulvar (si el cérvix es abierto) o abdomen distendido agudo (si es cerrado).
+- **Diagnóstico:** Leucocitosis con desviación a la izquierda severa, ecografía revelando útero distendido con líquido ecogénico.
+- **Manejo:** Es una urgencia. El tratamiento de elección es la Ovariohisterectomía (OVH) temprana con fluidoterapia intensiva y antibióticos sistémicos (Amoxicilina/Clavulánico o Enrofloxacina).
+
+### 2. Distocia
+- **Definición:** Dificultad para parir.
+- **Criterios de Intervención:**
+  - Más de 68 días de gestación desde la monta.
+  - Contracciones abdominales fuertes durante > 30 minutos sin expulsar cachorro.
+  - Más de 2-4 horas de descanso débil entre cachorros.
+  - Líquido verde oscuro (loquios de desprendimiento placentario) sin nacimiento inminente.
+- **Manejo:** Oxitocina (0.5 - 2 UI IM/SC) solo si se comprueba por radiografía que no hay obstrucción pélvica y que los fetos tienen tamaño adecuado. En casos obstructivos o bradicardia fetal severa (< 150 lpm), realizar Cesárea de emergencia.
+
+## Neonatología (Cachorros y Gatitos 0-4 semanas)
+- **Regulación Térmica:** Los neonatos no termorregulan. Hipotermia causa íleo paralítico. NUNCA alimentar a un neonato con temperatura < 35°C, primero hay que calentarlo lentamente.
+- **Inmunidad:** Depende absolutamente del calostro ingerido en las primeras 12-24 horas.
+- **Síndrome del Neonato Tóxico (Fading Puppy Syndrome):** Hipoglucemia, hipotermia, deshidratación, sepsis. Tratamiento: Calentamiento, dextrosa submucosa o intraósea, fluidoterapia tibia, antibióticos.

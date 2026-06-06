@@ -1,0 +1,139 @@
+NUTRICIÓN FELINA — REQUERIMIENTOS ESPECÍFICOS Y MANEJO DIETÉTICO
+
+1. INTRODUCCIÓN
+Los gatos son carnívoros estrictos (obligados) con requerimientos nutricionales únicos que difieren significativamente de los perros. Comprender estas diferencias es esencial para proporcionar una nutrición adecuada y prevenir enfermedades asociadas a deficiencias o excesos nutricionales.
+
+2. PARTICULARIDADES METABÓLICAS DEL GATO
+
+2.1 Carnívoro Obligado
+A diferencia del perro (omnívoro), el gato tiene adaptaciones metabólicas que requieren nutrientes de origen animal:
+- Alta actividad de enzimas gluconeogénicas (metabolismo orientado a proteínas)
+- Incapacidad de regular la degradación de aminoácidos cuando la ingesta proteica es baja
+- Requerimiento proteico mínimo más alto que el perro (26% MS adulto vs 18% en perros)
+
+2.2 Nutrientes Esenciales Exclusivos del Gato
+
+Taurina:
+- Aminoácido esencial en gatos (no lo sintetizan suficientemente)
+- Deficiencia causa: cardiomiopatía dilatada, degeneración retiniana central (ceguera), fallo reproductivo
+- Requerimiento: 0.1% MS en alimento seco, 0.2% en húmedo
+- Fuentes: carne, pescado, mariscos (ausente en proteínas vegetales)
+
+Ácido araquidónico:
+- Ácido graso omega-6 que el gato no puede sintetizar a partir de ácido linoleico
+- Esencial para función reproductiva, agregación plaquetaria e integridad cutánea
+- Fuentes: grasa animal, aceite de pescado
+
+Vitamina A preformada:
+- El gato no puede convertir betacaroteno en vitamina A (carece de dioxigenasa intestinal)
+- Debe recibir retinol directamente de fuentes animales (hígado, aceite de hígado de pescado)
+
+Niacina (Vitamina B3):
+- El gato no sintetiza niacina eficientemente a partir de triptófano
+- Debe recibirla directamente en la dieta
+
+3. REQUERIMIENTOS NUTRICIONALES
+
+3.1 Energía
+- Gato adulto promedio (4 kg, interior, castrado): 200-250 kcal/día
+- Fórmula RER: 70 x (peso kg)^0.75
+- Factor de actividad: 1.0 (interior castrado) a 1.4 (exterior activo)
+- Gatos obesos: calcular al 60-70% del requerimiento para peso ideal
+
+3.2 Proteínas
+- Mínimo adulto: 26% MS (AAFCO) — idealmente 30-45%
+- Gatitos: 30% MS mínimo
+- Los gatos utilizan proteínas como fuente energética primaria
+- Preferir proteínas de origen animal (perfil completo de aminoácidos)
+
+3.3 Grasas
+- Mínimo adulto: 9% MS
+- Incluir fuentes de ácido araquidónico y DHA
+- Los gatos toleran bien dietas altas en grasa
+
+3.4 Carbohidratos
+- No esenciales y mal tolerados en exceso
+- Los gatos tienen limitada actividad de amilasa salival y glucoquinasa hepática
+- Dietas con >40% de carbohidratos pueden causar hiperglucemia postprandial
+- Dietas bajas en carbohidratos son preferibles, especialmente en gatos diabéticos
+
+3.5 Agua
+- Los gatos tienen origen desértico (ancestro Felis lybica) y baja tendencia a beber
+- Requerimiento: 50 ml/kg/día
+- La alimentación húmeda (78-82% agua) contribuye significativamente a la hidratación
+- Fuentes de agua fresca, limpias y múltiples puntos de agua recomendados
+- Bebederos tipo fuente incentivan el consumo
+
+4. TIPOS DE ALIMENTACIÓN
+
+4.1 Alimento Seco (Croquetas)
+- Ventajas: económico, conveniente, larga duración, efecto abrasivo leve en dientes
+- Desventajas: baja humedad (~10%), generalmente alto en carbohidratos, riesgo de sobrealimentación
+- Contenido energético: 300-400 kcal/100g
+
+4.2 Alimento Húmedo (Latas/Sobres)
+- Ventajas: alta humedad (78-82%), más palatable, menor densidad calórica, mejor para tracto urinario
+- Desventajas: más costoso, se deteriora rápidamente tras abrir, puede favorecer enfermedad periodontal
+- Contenido energético: 80-120 kcal/100g
+
+4.3 Dieta Mixta
+Combinación de alimento seco y húmedo. Ofrece los beneficios de ambos. Es la opción más recomendada para gatos.
+
+4.4 Dietas Caseras y BARF
+- Requieren formulación por nutricionista veterinario
+- Riesgo alto de deficiencias (taurina, calcio, vitamina A) si no están bien formuladas
+- Riesgo de contaminación bacteriana en dietas crudas (Salmonella, E. coli)
+- No recomendadas sin supervisión profesional
+
+5. ENFERMEDADES NUTRICIONALES EN GATOS
+
+5.1 Obesidad Felina
+- Prevalencia: 30-40% de los gatos domésticos
+- Factores de riesgo: castración, alimentación ad libitum, inactividad, alimentación seca exclusiva
+- Consecuencias: diabetes mellitus, lipidosis hepática, enfermedad articular, FLUTD
+- Manejo: restricción calórica (60-70% del RER para peso ideal), enriquecimiento ambiental, juego activo, dieta alta en proteínas y baja en carbohidratos
+
+5.2 Lipidosis Hepática Felina
+- Enfermedad hepática más común en gatos
+- Se desencadena por anorexia prolongada (>3-5 días) en gatos obesos
+- Acumulación masiva de triglicéridos en hepatocitos
+- Signos: ictericia, anorexia, vómitos, letargia, hepatomegalia
+- Tratamiento: nutrición enteral agresiva (sonda esofágica o nasogástrica), dieta alta en proteínas, suplementación con L-carnitina, vitaminas del complejo B, vitamina K, SAMe
+
+5.3 Deficiencia de Taurina
+- Causa cardiomiopatía dilatada reversible con suplementación
+- Degeneración retiniana central (irreversible si es avanzada)
+- Fallo reproductivo (abortos, bajo peso al nacer)
+- Prevención: dieta con contenido adecuado de taurina (alimentos comerciales de calidad ya la incluyen)
+
+6. ALIMENTACIÓN POR ETAPA DE VIDA
+
+6.1 Gatitos (0-12 meses)
+- Destete: a partir de las 4 semanas, completar a las 8 semanas
+- Alimento de crecimiento: alta proteína (>35% MS), alta energía
+- Frecuencia: 3-4 comidas/día hasta los 6 meses, luego 2-3
+- DHA para desarrollo cerebral y visual
+
+6.2 Adultos (1-10 años)
+- 2 comidas al día (evitar alimentación ad libitum en gatos con tendencia al sobrepeso)
+- Mantener BCS 5/9
+- Monitorear peso cada 6 meses
+
+6.3 Senior (>10 años)
+- Puede necesitar mayor digestibilidad
+- Proteína de alta calidad (no reducir a menos que haya ERC avanzada)
+- Controlar peso (tanto pérdida como ganancia)
+- Antioxidantes, glucosamina, omega-3
+
+7. ALIMENTOS TÓXICOS PARA GATOS
+- Cebolla y ajo (anemia hemolítica Heinz)
+- Chocolate (teobromina y cafeína)
+- Uvas y pasas (nefrotoxicidad)
+- Lirios (altamente nefrotóxicos, todas las partes de la planta, incluyendo el polen)
+- Alcohol
+- Xilitol
+- Leche (muchos gatos adultos son intolerantes a la lactosa)
+- Atún en exceso (deficiencia de vitamina E → esteatitis)
+- Hígado crudo en exceso (hipervitaminosis A → espondilosis deformante)
+
+Fuentes: AAFCO Nutrient Profiles for Cats, NRC Nutrient Requirements of Cats, ISFM Guidelines on Feline Nutrition.

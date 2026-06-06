@@ -1,0 +1,85 @@
+VACUNACIÓN EN GATOS — GUÍA COMPLETA DE PROTOCOLOS
+
+1. INTRODUCCIÓN
+La vacunación felina es fundamental para prevenir enfermedades infecciosas graves y potencialmente mortales en gatos. Los programas de inmunización deben adaptarse al estilo de vida del gato (interior vs. exterior) y al riesgo epidemiológico de la zona.
+
+2. VACUNAS ESENCIALES (CORE)
+
+2.1 Panleucopenia Felina (FPV)
+La panleucopenia felina, también conocida como moquillo felino o enteritis infecciosa felina, es causada por un parvovirus felino. Es altamente contagiosa y potencialmente mortal, especialmente en gatitos. Los signos clínicos incluyen vómitos, diarrea severa, deshidratación, leucopenia marcada y, en gatas gestantes, puede causar hipoplasia cerebelar en los fetos.
+
+Protocolo de vacunación:
+- Primera dosis: 6-8 semanas de edad
+- Segunda dosis: 10-12 semanas de edad
+- Tercera dosis: 14-16 semanas de edad
+- Refuerzo: al año de edad
+- Revacunación: cada 3 años
+
+2.2 Herpesvirus Felino tipo 1 (FHV-1) — Rinotraqueítis Viral Felina
+El herpesvirus felino causa infección respiratoria superior con signos como estornudos, secreción nasal mucopurulenta, conjuntivitis, úlceras corneales y fiebre. El virus establece latencia en el ganglio trigémino y puede reactivarse durante periodos de estrés.
+
+Protocolo de vacunación:
+- Incluido en la vacuna triple felina
+- Mismo esquema que panleucopenia
+- La vacunación no previene la infección latente pero reduce la severidad clínica
+
+2.3 Calicivirus Felino (FCV)
+El calicivirus felino causa enfermedad respiratoria y oral. Los signos incluyen úlceras orales (especialmente en lengua y paladar), estornudos, secreción nasal y, en cepas virulentas (VS-FCV), vasculitis sistémica con alta mortalidad.
+
+Protocolo de vacunación:
+- Incluido en la vacuna triple felina
+- Mismo esquema que panleucopenia
+- Existen múltiples cepas; la vacuna no cubre todas las variantes
+
+2.4 Rabia
+Al igual que en perros, la vacunación antirrábica es obligatoria en la mayoría de jurisdicciones. Los gatos son el animal doméstico más frecuentemente diagnosticado con rabia en algunos países.
+
+Protocolo de vacunación:
+- Primera dosis: 12-16 semanas de edad
+- Refuerzo: al año de edad
+- Revacunación: según legislación local (anual o trienal)
+- IMPORTANTE: En gatos, usar vacunas sin adyuvante para reducir el riesgo de sarcoma en el sitio de inyección
+
+3. VACUNAS NO ESENCIALES (NON-CORE)
+
+3.1 Virus de la Leucemia Felina (FeLV)
+La leucemia felina es una enfermedad retroviral que causa inmunosupresión, anemia, linfoma y otras neoplasias. Se transmite por contacto directo prolongado (saliva, secreciones nasales, leche materna). Recomendada especialmente para gatos con acceso al exterior o que conviven con gatos FeLV positivos.
+
+Protocolo:
+- Realizar test FeLV (SNAP test) antes de vacunar; solo vacunar gatos negativos
+- Primera dosis: 8 semanas de edad
+- Segunda dosis: 3-4 semanas después
+- Refuerzo: al año
+- Revacunación: anual para gatos de riesgo
+
+3.2 Virus de la Inmunodeficiencia Felina (FIV)
+La vacuna contra FIV no está universalmente recomendada debido a que interfiere con las pruebas diagnósticas (produce falsos positivos en tests de anticuerpos). Su uso debe evaluarse caso por caso.
+
+3.3 Chlamydophila felis
+Recomendada en entornos con múltiples gatos donde se ha confirmado la infección. Causa conjuntivitis crónica con secreción ocular.
+
+4. ESQUEMA RESUMIDO DE VACUNACIÓN FELINA
+
+Edad                | Vacunas
+6-8 semanas         | Triple Felina (FPV + FHV-1 + FCV) - 1ra dosis
+10-12 semanas       | Triple Felina - 2da dosis + FeLV 1ra dosis (si aplica)
+14-16 semanas       | Triple Felina - 3ra dosis + Rabia + FeLV 2da dosis
+12 meses            | Refuerzo Triple + Rabia + FeLV
+Cada 1-3 años       | Revacunación según protocolo y riesgo
+
+5. CONSIDERACIONES ESPECIALES EN FELINOS
+- Usar vacunas sin adyuvante siempre que sea posible para reducir el riesgo de sarcoma asociado al sitio de inyección (FISS)
+- Rotar los sitios de inyección y registrarlos en la ficha clínica
+- Sitios recomendados de inyección (protocolo de las extremidades):
+  * FPV/FHV/FCV: miembro anterior derecho, lo más distal posible
+  * Rabia: miembro posterior derecho
+  * FeLV: miembro posterior izquierdo
+- No vacunar gatos FIV positivos con vacunas de virus vivo modificado
+- Los gatos estrictamente de interior con bajo riesgo pueden tener esquemas más espaciados
+
+6. REACCIONES ADVERSAS
+- Letargia y anorexia transitoria (24-48 horas) son comunes
+- Tumefacción en el sitio de inyección que persiste más de 3 semanas, crece más de 2 cm o no desaparece después de 3 meses debe investigarse (biopsia) por posible FISS
+- Anafilaxia: rara pero posible, manejar con epinefrina y fluidoterapia
+
+Fuentes: Directrices WSAVA 2024, AAFP Feline Vaccination Guidelines, Manual Merck Veterinario.

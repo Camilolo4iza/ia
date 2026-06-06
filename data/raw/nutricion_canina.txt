@@ -1,0 +1,125 @@
+NUTRICIÓN CANINA — REQUERIMIENTOS Y DIETAS TERAPÉUTICAS
+
+1. INTRODUCCIÓN
+La nutrición es un pilar fundamental de la salud canina. Una alimentación adecuada previene enfermedades, optimiza el crecimiento, mantiene el peso ideal y mejora la calidad de vida. Este documento cubre los requerimientos nutricionales del perro en sus diferentes etapas de vida y las principales dietas terapéuticas utilizadas en clínica veterinaria.
+
+2. REQUERIMIENTOS NUTRICIONALES BÁSICOS
+
+2.1 Macronutrientes
+
+Proteínas:
+- Fuente principal de aminoácidos esenciales (arginina, histidina, isoleucina, leucina, lisina, metionina, fenilalanina, treonina, triptófano, valina)
+- Requerimiento mínimo adulto: 18% en materia seca (MS)
+- Requerimiento cachorro: 22% MS
+- Fuentes de calidad: pollo, res, pescado, huevo, cordero
+- La calidad proteica se mide por digestibilidad y perfil de aminoácidos
+
+Grasas:
+- Fuente concentrada de energía (8.5 kcal/g vs 3.5 kcal/g de proteínas/carbohidratos)
+- Ácidos grasos esenciales: ácido linoleico (omega-6), ácido alfa-linolénico (omega-3)
+- EPA y DHA (omega-3) tienen propiedades antiinflamatorias
+- Requerimiento mínimo adulto: 5% MS
+- Requerimiento cachorro: 8% MS
+
+Carbohidratos:
+- No son esenciales en la dieta del perro (gluconeogénesis hepática)
+- Proporcionan energía económica y fibra
+- Fibra soluble: mejora la salud intestinal (fermentación por microbiota)
+- Fibra insoluble: regula tránsito intestinal, manejo de peso
+
+2.2 Micronutrientes
+
+Vitaminas liposolubles: A, D, E, K
+Vitaminas hidrosolubles: complejo B, vitamina C (el perro sintetiza vitamina C, no es esencial)
+Minerales: calcio, fósforo (ratio Ca:P ideal 1.2:1 a 1.4:1), sodio, potasio, magnesio, hierro, zinc, cobre, manganeso, yodo, selenio
+
+2.3 Agua
+El requerimiento diario de agua es aproximadamente 50-70 ml/kg/día. Aumenta con ejercicio, temperatura ambiental, lactancia y alimentación seca.
+
+3. ALIMENTACIÓN POR ETAPA DE VIDA
+
+3.1 Cachorros (0-12 meses, hasta 24 meses en razas gigantes)
+- Requerimiento energético: 2x el requerimiento de adulto (por kg de peso)
+- Frecuencia: 3-4 comidas/día hasta los 4 meses, luego 2-3 comidas/día
+- Usar alimento formulado para crecimiento
+- Razas grandes/gigantes: controlar velocidad de crecimiento (exceso de calcio y energía aumenta riesgo de enfermedades ortopédicas del desarrollo)
+- No suplementar calcio en dietas comerciales completas
+
+3.2 Adultos (1-7 años)
+- Requerimiento energético (RER): 70 x (peso en kg)^0.75 kcal/día
+- Requerimiento de mantenimiento (MER): RER x factor (1.6-1.8 para activo, 1.2-1.4 para sedentario, 1.0 para castrado obeso)
+- 2 comidas al día recomendado
+- Mantener condición corporal ideal (BCS 4-5/9)
+
+3.3 Senior (>7 años, >5 años en razas gigantes)
+- Puede necesitar reducción calórica (menor actividad)
+- Proteína de alta calidad y digestibilidad (no reducir proteína a menos que haya enfermedad renal)
+- Suplementación con antioxidantes (vitamina E, selenio, betacaroteno)
+- Ácidos grasos omega-3 para salud articular y cognitiva
+- L-carnitina para metabolismo graso
+- Glucosamina y condroitín sulfato para articulaciones
+
+3.4 Gestación y Lactancia
+- Gestación: aumentar energía gradualmente en el último tercio (hasta 1.5x mantenimiento)
+- Lactancia: requerimiento energético puede triplicarse (hasta 3-4x mantenimiento)
+- Usar alimento de crecimiento durante lactancia (alta densidad energética)
+
+4. CONDICIÓN CORPORAL (BODY CONDITION SCORE - BCS)
+Escala de 9 puntos:
+- BCS 1-3: Bajo peso (costillas, vértebras y huesos pélvicos prominentes)
+- BCS 4-5: Peso ideal (costillas palpables con mínima cobertura grasa, cintura visible)
+- BCS 6-7: Sobrepeso (costillas palpables con dificultad, cintura poco definida)
+- BCS 8-9: Obeso (costillas no palpables, depósitos grasos evidentes, no hay cintura)
+
+Se estima que cada punto de BCS por encima de 5 representa un 10-15% de exceso de peso.
+
+5. DIETAS TERAPÉUTICAS
+
+5.1 Dieta Renal
+Indicación: Enfermedad renal crónica (ERC) estadios IRIS II-IV
+Características: Restricción moderada de proteínas (alta calidad), fósforo restringido (<0.5% MS), sodio restringido, suplementada con omega-3, potasio y vitaminas del complejo B
+Marcas comerciales: Royal Canin Renal, Hill's k/d, Purina NF
+
+5.2 Dieta Hepática
+Indicación: Hepatopatías crónicas, encefalopatía hepática
+Características: Proteína moderada de alta digestibilidad y alto valor biológico (láctea, soja), restricción de cobre, suplementada con zinc, vitaminas E y C, L-carnitina
+
+5.3 Dieta Hipoalergénica
+Indicación: Dermatitis/enteropatía por alergia alimentaria
+Tipos:
+- Proteína novel: fuente proteica a la que el animal no haya sido expuesto (venado, conejo, pato)
+- Proteína hidrolizada: proteínas fragmentadas a <10 kDa (no reconocidas por sistema inmune)
+Duración de prueba: 8-12 semanas estrictas
+
+5.4 Dieta para Manejo de Peso
+Indicación: Sobrepeso y obesidad (BCS >6/9)
+Características: Reducción calórica (60-70% del requerimiento para peso objetivo), alta fibra (saciedad), proteína elevada (preservar masa muscular), L-carnitina
+Objetivo: Pérdida del 1-2% del peso corporal por semana
+
+5.5 Dieta Gastrointestinal
+Indicación: Gastroenteritis aguda o crónica, IBD
+Características: Alta digestibilidad (>87%), baja en grasa para pancreatitis, con prebióticos (FOS, MOS), proteína de fácil digestión
+
+5.6 Dieta Urinaria
+Indicación: Urolitiasis (estruvita, oxalato de calcio), FLUTD
+Características para disolución de estruvita: acidificante urinaria (pH objetivo 6.0-6.3), restricción de magnesio y fósforo
+Para prevención de oxalato: no acidificante, restricción moderada de calcio y oxalato, citrato de potasio
+
+6. ALIMENTOS TÓXICOS PARA PERROS
+- Chocolate (teobromina)
+- Uvas y pasas (nefrotoxicidad)
+- Cebolla y ajo (anemia hemolítica por daño oxidativo a eritrocitos)
+- Xilitol (hipoglucemia severa, fallo hepático)
+- Macadamia (debilidad, vómitos, hipertermia)
+- Aguacate (persina: vómitos, diarrea)
+- Alcohol (depresión SNC, hipoglucemia)
+- Cafeína (taquicardia, arritmias)
+
+7. SUPLEMENTOS COMUNES EN VETERINARIA
+- Ácidos grasos omega-3 (EPA/DHA): antiinflamatorio, piel, articulaciones, función cognitiva
+- Probióticos: Enterococcus faecium, Bacillus subtilis (salud intestinal)
+- Glucosamina/condroitín: protección cartílago articular
+- SAMe (S-adenosilmetionina): hepatoprotector
+- Vitamina E: antioxidante
+
+Fuentes: AAFCO Nutrient Profiles, NRC Nutrient Requirements of Dogs, WSAVA Global Nutrition Guidelines.

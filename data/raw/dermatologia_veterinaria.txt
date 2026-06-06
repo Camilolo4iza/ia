@@ -1,0 +1,128 @@
+DERMATOLOGÍA VETERINARIA — ENFERMEDADES CUTÁNEAS EN PERROS Y GATOS
+
+1. INTRODUCCIÓN
+Las enfermedades dermatológicas son uno de los motivos de consulta más frecuentes en la clínica de pequeños animales. La piel es el órgano más extenso del cuerpo y su evaluación requiere un enfoque sistemático que incluya historia clínica detallada, patrón de distribución de lesiones y diagnósticos diferenciales apropiados.
+
+2. DERMATITIS ALÉRGICA
+
+2.1 Dermatitis Atópica Canina (DAC)
+La dermatitis atópica es una enfermedad inflamatoria crónica de la piel con predisposición genética, causada por una respuesta inmunológica exagerada a alérgenos ambientales (ácaros del polvo, pólenes, hongos). Es la segunda causa más común de prurito en perros (después de la DAPP).
+
+Razas predispuestas: Bulldog Francés, Labrador Retriever, Golden Retriever, West Highland White Terrier, Pastor Alemán, Shar Pei, Boxer.
+
+Signos clínicos:
+- Prurito no estacional o estacional (según alérgeno)
+- Distribución característica: cara, pabellones auriculares, axilas, ingles, espacios interdigitales, región perineal
+- Eritema, excoriaciones por rascado
+- Otitis externa crónica bilateral
+- Infecciones secundarias bacterianas y por levaduras (Malassezia)
+- Hiperpigmentación y liquenificación en casos crónicos
+
+Criterios de Favrot (diagnóstico clínico):
+1. Inicio de signos antes de los 3 años
+2. Perro que vive principalmente en interior
+3. Prurito que responde a corticoides
+4. Pododermatitis anterior bilateral
+5. Pabellones auriculares afectados
+6. Márgenes auriculares no afectados
+7. Región dorsolumbar no afectada
+
+Diagnóstico: Clínico (exclusión de otras causas de prurito) + test de alergia intradérmico o serológico (para inmunoterapia)
+
+Tratamiento:
+- Manejo multimodal crónico:
+  * Oclacitinib (Apoquel): 0.4-0.6 mg/kg BID x 14 días, luego SID. Inhibidor de JAK-1
+  * Lokivetmab (Cytopoint): anticuerpo monoclonal anti-IL-31, inyección SC mensual
+  * Ciclosporina: 5 mg/kg SID, efecto en 4-6 semanas
+  * Corticoides: prednisona 0.5-1 mg/kg/día (solo para control agudo, no uso crónico)
+- Terapia tópica: champús con clorhexidina/miconazol, ceramidas
+- Inmunoterapia alérgeno-específica (ASIT): tratamiento de elección a largo plazo
+- Suplementación con ácidos grasos omega 3 y 6
+
+2.2 Dermatitis Alérgica por Picadura de Pulgas (DAPP)
+Es la alergia más común en perros y gatos. La reacción es a proteínas de la saliva de la pulga. Una sola picadura puede desencadenar prurito intenso en animales sensibilizados.
+
+Distribución: Región dorsolumbar, base de la cola, caras mediales de los muslos, abdomen ventral.
+
+Tratamiento: Control estricto de pulgas (tratar al animal, a todos los contactos y al ambiente), corticoides a corto plazo para control del prurito.
+
+2.3 Reacciones Adversas a los Alimentos
+Pueden ser mediadas o no mediadas por IgE. Los alérgenos más comunes son proteínas de carne de res, pollo, lácteos, trigo y soja.
+
+Diagnóstico: Dieta de eliminación con proteína novel o hidrolizada durante 8-12 semanas. No existe test sanguíneo fiable para alergia alimentaria.
+
+3. ENFERMEDADES FÚNGICAS
+
+3.1 Dermatofitosis (Tiña)
+Infección fúngica causada principalmente por Microsporum canis (90% en gatos), Microsporum gypseum y Trichophyton mentagrophytes. Es una zoonosis.
+
+Signos clínicos:
+- Alopecia circular con descamación y costras
+- Generalmente no pruriginosa (a menos que haya infección secundaria)
+- Los gatos pueden ser portadores asintomáticos
+- Fluorescencia verde manzana con lámpara de Wood (solo 50% de M. canis fluoresce)
+
+Diagnóstico: Cultivo fúngico en DTM (gold standard), tricograma (pelos con artroconidias), PCR
+
+Tratamiento:
+- Tópico: miconazol, clotrimazol, enilconazol (baños)
+- Sistémico (obligatorio en casos extensos): itraconazol 5-10 mg/kg/día x 4-8 semanas, o terbinafina 30-40 mg/kg/día
+- Descontaminación ambiental con lejía diluida o enilconazol
+- Tratar hasta obtener 2-3 cultivos negativos consecutivos
+
+3.2 Malassezia pachydermatis
+Levadura comensal que puede causar dermatitis y otitis cuando hay factores predisponentes (alergias, humedad, pliegues cutáneos, inmunosupresión).
+
+Signos: Eritema, prurito, olor rancio característico, exudado graso, descamación amarillenta
+
+Diagnóstico: Citología por cinta adhesiva o hisopado (tinción Diff-Quick): >2 organismos por campo de inmersión es diagnóstico
+
+Tratamiento: Ketoconazol 5-10 mg/kg/día o itraconazol, champús con miconazol/clorhexidina 2 veces por semana
+
+4. SARNA
+
+4.1 Sarna Demodécica
+Causada por Demodex canis (perros) o Demodex cati/gatoi (gatos). El ácaro vive en los folículos pilosos. La forma generalizada se asocia a inmunosupresión.
+
+Formas clínicas:
+- Localizada: <5 lesiones, frecuente en cachorros de 3-6 meses, autolimitante en 90% de casos
+- Generalizada: >5 lesiones o afecta >2 regiones corporales, requiere tratamiento
+
+Signos: Alopecia, eritema, descamación, comedones, foliculitis y furunculosis en casos severos, pododermatitis demodécica
+
+Diagnóstico: Raspado cutáneo profundo (apretar la piel para extruir ácaros del folículo), tricograma
+
+Tratamiento:
+- Isoxazolinas (tratamiento de elección actual):
+  * Fluralaner: 25-56 mg/kg dosis única oral, repetir al mes si es necesario
+  * Afoxolaner: 2.5 mg/kg mensual
+  * Sarolaner: 2 mg/kg mensual
+- Ivermectina (alternativa): 0.3-0.6 mg/kg/día oral (NO en razas con mutación MDR1)
+- Tratar hasta 2 raspados negativos consecutivos con 1 mes de intervalo
+- Investigar causa subyacente de inmunosupresión en adultos
+
+4.2 Sarna Sarcóptica
+Causada por Sarcoptes scabiei var. canis. Altamente contagiosa y zoonótica. Transmisión por contacto directo.
+
+Signos: Prurito intenso (el más severo de todas las dermatosis), reflejo otopodal positivo, lesiones en bordes auriculares, codos, tarsos, abdomen ventral
+
+Diagnóstico: Raspado cutáneo superficial (sensibilidad <50%), respuesta al tratamiento, serología
+
+Tratamiento: Isoxazolinas, selamectina tópica, o ivermectina. Tratar todos los animales en contacto.
+
+5. PIODERMA BACTERIANA
+Infección bacteriana de la piel, generalmente secundaria a una causa subyacente (alergias, endocrinopatías, parasitosis).
+
+Clasificación:
+- Pioderma superficial: impétigo, foliculitis (pápulas, pústulas, collaretes epidérmicos)
+- Pioderma profunda: furunculosis, celulitis (nódulos, tractos drenantes, dolor)
+
+Agente más común: Staphylococcus pseudintermedius
+
+Tratamiento:
+- Pioderma superficial: antibióticos tópicos (mupirocina, ácido fusídico) o sistémicos por 3-4 semanas
+- Pioderma profunda: antibióticos sistémicos por 6-8 semanas (idealmente basado en cultivo y antibiograma)
+- Antibióticos empíricos: cefalexina 22-30 mg/kg BID, amoxicilina-ácido clavulánico 12.5-25 mg/kg BID
+- SIEMPRE investigar y tratar la causa subyacente
+
+Fuentes: ICADA Guidelines, Manual Muller & Kirk's Dermatología en Pequeños Animales, Manual Merck Veterinario.

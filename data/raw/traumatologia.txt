@@ -1,0 +1,154 @@
+TRAUMATOLOGÍA VETERINARIA — FRACTURAS, LUXACIONES Y MANEJO DEL DOLOR
+
+1. INTRODUCCIÓN
+La traumatología veterinaria abarca el diagnóstico y tratamiento de lesiones del sistema musculoesquelético. Los traumatismos son frecuentes en pequeños animales, principalmente por atropellos, caídas y peleas. El manejo adecuado incluye estabilización del paciente, diagnóstico por imagen, tratamiento quirúrgico u ortopédico y rehabilitación.
+
+2. EVALUACIÓN INICIAL DEL PACIENTE TRAUMATIZADO
+- Priorizar el triage y estabilización sistémica antes de atender fracturas
+- ABC: vía aérea, respiración, circulación
+- Evaluación neurológica básica
+- Examen musculoesquelético completo: palpación, rango de movimiento, crepitación, inestabilidad
+- Radiografías: mínimo dos proyecciones ortogonales (lateral y ventrodorsal/AP)
+- Analítica sanguínea para evaluar estado general y planificar anestesia
+
+3. CLASIFICACIÓN DE FRACTURAS
+
+3.1 Según la integridad de la piel
+- Cerrada: sin comunicación con el exterior
+- Abierta: comunicación con el exterior (riesgo de infección)
+  * Grado I: herida puntiforme desde dentro hacia fuera
+  * Grado II: herida >1 cm con daño moderado de tejidos blandos
+  * Grado III: pérdida extensa de tejidos blandos, contaminación severa
+
+3.2 Según el trazo de fractura
+- Transversa: perpendicular al eje del hueso
+- Oblicua: en ángulo de 30-60° respecto al eje
+- Espiral: trazo helicoidal alrededor del hueso
+- Conminuta: múltiples fragmentos (>2)
+- En tallo verde: fractura incompleta (hueso joven)
+- Avulsión: fragmento arrancado por inserción tendinosa o ligamentosa
+- Fisura (fisure): fractura incompleta, línea de fractura sin desplazamiento
+
+3.3 Según la localización
+- Diafisaria (tercio proximal, medio, distal)
+- Metafisaria
+- Epifisaria
+- Fisaria (en animales en crecimiento): clasificación Salter-Harris (I-V)
+  * Tipo I: a través de la fisis sin afectar hueso
+  * Tipo II: a través de la fisis con fragmento metafisario (más común)
+  * Tipo III: a través de la fisis y epífisis (articular)
+  * Tipo IV: a través de metáfisis, fisis y epífisis
+  * Tipo V: aplastamiento de la fisis (peor pronóstico para crecimiento)
+
+4. PRINCIPIOS DE TRATAMIENTO DE FRACTURAS
+
+4.1 Objetivos
+- Reducción anatómica de fragmentos
+- Estabilización rígida para permitir cicatrización ósea
+- Preservar vascularización y tejidos blandos
+- Retorno temprano a la función
+
+4.2 Métodos de Fijación
+
+Fijación externa (no quirúrgica):
+- Férulas y vendajes: indicados en fracturas distales de radio/ulna y tibia en animales jóvenes
+  * Férula de Robert Jones: vendaje acolchado voluminoso para estabilización temporal
+  * Férula de Mason-meta: aluminio moldeable
+- Limitaciones: no es adecuada para fracturas proximales, articulares o inestables
+
+Fijación interna (quirúrgica):
+- Placas y tornillos: método más versátil
+  * Placas de compresión dinámica (DCP)
+  * Placas bloqueadas (LCP): mejor para hueso osteopénico
+  * Placas de reconstrucción: para fracturas articulares
+
+- Clavos intramedulares: resistencia a la flexión
+  * Clavo de Steinmann
+  * Combinación clavo + cerclaje para fracturas oblicuas
+
+- Fijador externo: útil para fracturas abiertas y conminutas
+  * Tipo I: pins unilaterales
+  * Tipo II: pins bilaterales (mayor rigidez)
+  * Fijador circular (Ilizarov): fracturas complejas, correcciones angulares
+
+- Cerclaje: alambre en forma de banda de tensión (fracturas por avulsión) o cerclaje interfragmentario
+
+5. FRACTURAS ESPECÍFICAS COMUNES
+
+5.1 Fractura de Fémur
+- Fractura más común en perros y gatos (generalmente por atropello)
+- Tratamiento: placa y tornillos (diafisaria), clavo intramedular + cerclaje, o clavo bloqueado
+- Fracturas de cuello femoral: excisión de cabeza y cuello femoral (FHO) o prótesis total de cadera
+
+5.2 Fractura de Pelvis
+- Frecuente en gatos (atropello, caída)
+- Muchas fracturas de pelvis son tratadas de forma conservadora (reposo en jaula 4-6 semanas)
+- Indicación quirúrgica: estrechamiento del canal pélvico >50%, fractura de acetábulo, inestabilidad del eje de carga
+
+5.3 Fractura de Radio y Ulna
+- Frecuente en razas toy (caída desde brazos del propietario)
+- Alto riesgo de no unión en razas miniatura (mala vascularización distal)
+- Tratamiento: placa y tornillos (preferido) o fijador externo
+
+5.4 Fractura de Mandíbula
+- Frecuente en gatos y perros pequeños
+- Puede tratarse con cerclaje interdental, férula acrílica o placa
+- Alimentación blanda durante la cicatrización
+
+6. LUXACIONES
+
+6.1 Luxación de Rótula
+- Muy común, especialmente en razas pequeñas (Yorkshire, Pomerania, Chihuahua)
+- Clasificación (Singleton):
+  * Grado I: luxación manual, reduce espontáneamente
+  * Grado II: luxa con flexión de rodilla, puede reducirse manualmente
+  * Grado III: permanentemente luxada, puede reducirse manualmente
+  * Grado IV: permanentemente luxada, no puede reducirse
+- Tratamiento: quirúrgico para grados II-IV (trocleoplastía + transposición de tuberosidad tibial + imbricación de retináculo)
+
+6.2 Luxación Coxofemoral
+- Generalmente traumática
+- Tratamiento: reducción cerrada + cabestrillo de Ehmer (si la articulación es estable post-reducción) o tratamiento quirúrgico (toggle pin, FHO)
+
+6.3 Rotura de Ligamento Cruzado Craneal (LCC)
+- Causa más común de claudicación de miembro posterior en perros
+- Razas predispuestas: Labrador, Golden, Rottweiler
+- Diagnóstico: test de cajón anterior, test de compresión tibial, radiografías (efusión articular, desplazamiento tibial), artroscopia
+- Tratamiento quirúrgico:
+  * TPLO (Osteotomía de Nivelación de la Meseta Tibial): gold standard
+  * TTA (Avance de la Tuberosidad Tibial)
+  * Técnicas extracapsulares (sutura fabelo-tibial): más económica, adecuada para perros <15 kg
+
+7. MANEJO DEL DOLOR EN TRAUMATOLOGÍA
+
+7.1 Escala de Dolor
+Utilizar escalas validadas:
+- Glasgow Composite Measure Pain Scale (GCPS) para perros
+- Feline Grimace Scale (FGS) para gatos
+- Evaluar: vocalización, postura, respuesta a palpación, actividad, expresión facial (gatos)
+
+7.2 Protocolo de Analgesia Multimodal
+Combinar fármacos de diferentes mecanismos para maximizar analgesia y minimizar efectos adversos:
+
+- Opioides: metadona 0.3-0.5 mg/kg IV/IM cada 4-6 horas, fentanilo en infusión continua para dolor severo
+- AINEs: meloxicam 0.2 mg/kg SC inicial, luego 0.1 mg/kg PO SID (perros), 0.05 mg/kg PO SID (gatos, máximo 3-5 días)
+- Ketamina en microdosis: 0.5 mg/kg IV bolo + 10 mcg/kg/min CRI
+- Gabapentina: 5-10 mg/kg PO BID-TID (dolor neuropático y crónico)
+- Anestesia regional: bloqueos de nervios periféricos (ciático + femoral para cirugía de miembro posterior)
+- Crioterapia: aplicación de frío local las primeras 48-72 horas post-trauma
+
+7.3 Analgesia en Gatos
+- Los gatos metabolizan AINEs diferente que los perros
+- Meloxicam: usar la dosis más baja posible, por el menor tiempo posible
+- Buprenorfina transmucosa oral: 0.02 mg/kg cada 8-12 horas (excelente opción en gatos)
+- Gabapentina: 5-10 mg/kg PO BID (también ansiolítico)
+
+8. REHABILITACIÓN
+- Crioterapia (primeras 72h), luego termoterapia
+- Ejercicios de rango de movimiento pasivo
+- Hidroterapia (cinta subacuática)
+- Paseos controlados con correa
+- Ejercicios de propiocepción
+- Electroestimulación, laser terapéutico, ultrasonido
+
+Fuentes: AO Principles of Fracture Management in Small Animals, Fossum's Small Animal Surgery, BSAVA Manual of Canine and Feline Musculoskeletal Disorders.

@@ -1,0 +1,143 @@
+CIRUGÍA DE ESTERILIZACIÓN — OVARIOHISTERECTOMÍA Y ORQUIECTOMÍA
+
+1. INTRODUCCIÓN
+La esterilización quirúrgica (ovariohisterectomía en hembras y orquiectomía en machos) es uno de los procedimientos más realizados en la clínica veterinaria de pequeños animales. Además del control poblacional, ofrece beneficios significativos para la salud del paciente.
+
+2. OVARIOHISTERECTOMÍA (OVH)
+
+2.1 Definición y Objetivo
+La ovariohisterectomía consiste en la extirpación quirúrgica de ambos ovarios y el útero. Es el procedimiento de esterilización estándar en hembras en la mayoría de países latinoamericanos.
+
+2.2 Indicaciones
+- Control reproductivo
+- Prevención de piómetra (eliminación del riesgo)
+- Prevención de tumores mamarios (reduce riesgo significativamente si se realiza antes del primer o segundo celo)
+- Tratamiento de piómetra
+- Tumores ováricos
+- Quistes ováricos
+- Eliminación del celo y comportamientos asociados
+
+2.3 Edad Recomendada
+- Perras: 6-9 meses (antes del primer celo idealmente)
+- Gatas: 4-6 meses (antes del primer celo)
+- Esterilización pediátrica (6-16 semanas): practicada en refugios, controversia sobre efectos a largo plazo
+- En razas grandes, algunos estudios sugieren esperar hasta después de la madurez esquelética
+
+2.4 Evaluación Prequirúrgica
+- Examen físico completo
+- Hemograma y bioquímica básica (mínimo: hematocrito, proteínas totales, glucosa, BUN, creatinina)
+- Evaluación de riesgo anestésico (clasificación ASA)
+- Ayuno prequirúrgico: 8-12 horas sólidos, 2-4 horas líquidos
+- Verificar esquema de vacunación actualizado
+
+2.5 Protocolo Anestésico Sugerido
+
+Premedicación:
+- Sedación: dexmedetomidina 5-10 mcg/kg IM + metadona 0.3 mg/kg IM
+- Alternativa: acepromacina 0.02-0.05 mg/kg IM + butorfanol 0.2-0.4 mg/kg IM
+
+Inducción:
+- Propofol 2-6 mg/kg IV lento hasta efecto
+- Alternativa: ketamina 5 mg/kg + diazepam 0.25 mg/kg IV
+
+Mantenimiento:
+- Isoflurano 1.5-2.5% o sevoflurano 2.5-4% en oxígeno 100%
+- Fluidoterapia IV: Ringer Lactato a 5-10 ml/kg/h
+
+Analgesia:
+- AINE preoperatorio: meloxicam 0.2 mg/kg SC (perros) o 0.1 mg/kg SC (gatos, dosis única)
+- Bloqueo local: lidocaína 2% en línea de incisión y ligamentos ováricos
+- Analgesia multimodal postoperatoria
+
+2.6 Técnica Quirúrgica (Resumen)
+1. Preparación aséptica del abdomen ventral (tricotomía amplia, antisepsia con clorhexidina y alcohol)
+2. Incisión en línea media ventral, caudal al ombligo
+3. Localización del cuerpo uterino o cuerno con gancho de ovariohisterectomía
+4. Exteriorización del cuerno uterino y localización del ovario
+5. Ruptura del ligamento suspensorio del ovario
+6. Triple pinzamiento del pedículo ovárico
+7. Ligadura del pedículo ovárico (doble ligadura con sutura absorbible)
+8. Repetir en el ovario contralateral
+9. Ligadura del cuerpo uterino (doble ligadura por transfixión)
+10. Sección del cuerpo uterino
+11. Verificar hemostasia de todos los pedículos
+12. Cierre: línea alba (sutura absorbible monofilamento), subcutáneo, piel (puntos simples o intradérmico)
+
+2.7 Material de Sutura
+- Pedículos y cuerpo uterino: poligliconato (Maxon) o poliglecaprona 25 (Monocryl) 2-0 o 3-0
+- Línea alba: poliglecaprona 25 o polidioxanona (PDS) 2-0 o 3-0, patrón simple interrumpido o continuo
+- Piel: nylon 3-0 o 4-0 (si puntos externos) o poliglecaprona subcuticular
+
+3. ORQUIECTOMÍA
+
+3.1 Definición
+Extirpación quirúrgica de ambos testículos. En perros se realiza técnica abierta o cerrada prescrotal; en gatos, técnica escrotal abierta.
+
+3.2 Indicaciones
+- Control reproductivo
+- Prevención de patología prostática (hiperplasia prostática benigna)
+- Prevención de tumores testiculares
+- Tratamiento de criptorquidia
+- Manejo de comportamientos indeseados (marcaje, agresión, vagabundeo)
+- Tumores testiculares
+- Hernias perineales
+
+3.3 Técnica en Perros (Prescrotal)
+1. Incisión prescrotal en línea media
+2. Presión digital para avanzar testículo hacia la incisión
+3. Técnica cerrada: incisión de escroto sin abrir túnica vaginal, ligadura del cordón espermático completo
+4. Técnica abierta: incisión de túnica vaginal, ligadura separada de vasos y conducto deferente
+5. Ligadura con sutura absorbible o técnica de autoligadura (nudo sobre el propio cordón)
+6. Repetir con el testículo contralateral
+7. Cierre de subcutáneo e piel
+
+3.4 Técnica en Gatos (Escrotal)
+1. Dos incisiones escrotales (una sobre cada testículo)
+2. Técnica abierta
+3. Autoligadura: los vasos y el conducto deferente se anudan entre sí (no requiere sutura)
+4. Las incisiones escrotales se dejan abiertas para drenar (cicatrización por segunda intención)
+5. No requiere sutura de piel
+
+4. CUIDADOS POSTOPERATORIOS
+
+4.1 Monitoreo Inmediato
+- Monitorear recuperación anestésica (temperatura, frecuencia cardíaca, frecuencia respiratoria)
+- Mantener en ambiente cálido y tranquilo
+- No dejar solo hasta que esté completamente consciente
+- Proporcionar agua cuando esté alerta
+
+4.2 Instrucciones al Propietario
+- Collar isabelino durante 10-14 días (prevenir lamido de herida)
+- Reposo relativo: evitar saltos, carreras y juego intenso por 10 días
+- Revisar la herida diariamente: buscar enrojecimiento excesivo, secreción, inflamación o dehiscencia
+- Administrar analgésicos prescritos (meloxicam oral, tramadol si es necesario)
+- No bañar hasta retiro de puntos
+- Retiro de puntos de piel a los 10-14 días (si no son intradérmicos)
+- Signos de alarma: sangrado activo, secreción purulenta, edema excesivo, fiebre, inapetencia >24h
+
+4.3 Complicaciones Potenciales
+- Hemorragia del pedículo ovárico o cordón espermático
+- Infección de herida quirúrgica
+- Seroma
+- Dehiscencia de sutura
+- Reacción a material de sutura (granuloma)
+- Ligadura accidental de uréter (OVH)
+- Síndrome de ovario remanente (si queda tejido ovárico residual)
+
+5. BENEFICIOS Y RIESGOS DE LA ESTERILIZACIÓN
+
+5.1 Beneficios
+- Eliminación del riesgo de piómetra (potencialmente mortal)
+- Reducción de tumores mamarios: 0.5% de riesgo si OVH antes del 1er celo, 8% después del 1er celo, 26% después del 2do celo
+- Eliminación de tumores ováricos y testiculares
+- Prevención de hiperplasia prostática benigna
+- Control poblacional
+- Reducción de comportamientos indeseados
+
+5.2 Riesgos Potenciales
+- Riesgo anestésico (mínimo con evaluación prequirúrgica adecuada)
+- Tendencia al aumento de peso (ajustar alimentación post-esterilización)
+- Incontinencia urinaria en perras esterilizadas (5-20%, más común en razas grandes)
+- En razas grandes, esterilización temprana puede aumentar riesgo de ciertas neoplasias y enfermedades ortopédicas (estudios en curso)
+
+Fuentes: BSAVA Manual of Canine and Feline Abdominal Surgery, Fossum's Small Animal Surgery, Manual Merck Veterinario.

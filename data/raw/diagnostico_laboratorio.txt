@@ -1,0 +1,174 @@
+DIAGNÓSTICO DE LABORATORIO VETERINARIO — INTERPRETACIÓN DE EXÁMENES
+
+1. INTRODUCCIÓN
+El diagnóstico de laboratorio es una herramienta indispensable en la práctica veterinaria. La correcta interpretación de los exámenes complementarios permite establecer diagnósticos precisos, monitorear tratamientos y detectar enfermedades subclínicas. Este documento cubre los principales exámenes de laboratorio utilizados en la clínica de pequeños animales.
+
+2. HEMOGRAMA COMPLETO
+
+2.1 Serie Roja (Eritrograma)
+
+Hematocrito (HCT):
+- Valores normales: Perro 37-55%, Gato 30-45%
+- Aumento (policitemia): deshidratación (relativa), policitemia vera, enfermedad pulmonar crónica
+- Disminución (anemia): hemorragia, hemólisis, enfermedad crónica, insuficiencia renal
+
+Hemoglobina (Hb):
+- Perro: 12-18 g/dL, Gato: 8-15 g/dL
+- Se correlaciona con el hematocrito
+
+Índices eritrocitarios:
+- VCM (Volumen Corpuscular Medio): tamaño del eritrocito
+  * Microcítica: deficiencia de hierro, enfermedad hepática portosistémica
+  * Normocítica: enfermedad crónica, hemorragia aguda
+  * Macrocítica: deficiencia de B12/folato, FeLV, regeneración
+
+- CHCM (Concentración de Hemoglobina Corpuscular Media):
+  * Hipocrómica: deficiencia de hierro
+  * Normocrómica: mayoría de anemias
+  * Hipercrómica: artefacto por hemólisis in vitro
+
+Reticulocitos:
+- Indican respuesta regenerativa de la médula ósea
+- Perro: >60,000/µL o >1% es regenerativa
+- Gato: >50,000/µL agregados es regenerativa
+- Anemia no regenerativa: enfermedad crónica, insuficiencia renal, mieloptisis
+
+2.2 Serie Blanca (Leucograma)
+
+Leucocitos totales:
+- Perro: 6,000-17,000/µL, Gato: 5,500-19,500/µL
+
+Neutrófilos:
+- Son los leucocitos predominantes
+- Neutrofilia: infección bacteriana, estrés (corticoides), inflamación
+- Neutropenia: infección viral severa (parvovirus, PIF), sepsis, mielotoxicidad
+- Desviación a la izquierda: presencia de bandas (neutrófilos inmaduros), indica inflamación aguda
+- Neutrófilos tóxicos: basofilia citoplasmática, cuerpos de Döhle, vacuolización — indica infección severa
+
+Linfocitos:
+- Perro: 1,000-4,800/µL, Gato: 1,500-7,000/µL
+- Linfocitosis: excitación/miedo en gatos, linfoma, estimulación antigénica crónica, Ehrlichia
+- Linfopenia: estrés por corticoides, infección viral aguda, quimioterapia
+
+Monocitos:
+- Perro: 150-1,350/µL
+- Monocitosis: inflamación crónica, necrosis tisular, estrés
+
+Eosinófilos:
+- Perro: 100-1,490/µL
+- Eosinofilia: parasitismo, alergia, complejo eosinofílico felino, mastocitoma
+- Eosinopenia: estrés agudo (corticoides)
+
+2.3 Plaquetas
+- Perro: 175,000-500,000/µL, Gato: 175,000-500,000/µL
+- Trombocitopenia: ehrlichiosis, CID, destrucción inmunomediada, mieloptisis
+- Trombocitosis: inflamación crónica, deficiencia de hierro, neoplasia
+- Trombocitopenia en gatos: siempre descartar agregación plaquetaria (pseudotrombocitopenia)
+
+3. BIOQUÍMICA SANGUÍNEA
+
+3.1 Función Renal
+
+BUN (Nitrógeno Ureico):
+- Perro: 7-27 mg/dL, Gato: 16-36 mg/dL
+- Aumento: insuficiencia renal, deshidratación, dieta alta en proteínas, hemorragia GI
+- Disminución: insuficiencia hepática, dieta baja en proteínas
+
+Creatinina:
+- Perro: 0.5-1.8 mg/dL, Gato: 0.8-2.4 mg/dL
+- Mejor indicador de función renal que BUN (no afectada por dieta ni deshidratación)
+- Aumento: enfermedad renal (se eleva cuando >75% de nefronas están dañadas)
+- SDMA (dimetilarginina simétrica): biomarcador renal más temprano, detecta pérdida de >25% de función renal
+
+3.2 Función Hepática
+
+ALT (Alanina Aminotransferasa):
+- Perro: 10-125 U/L, Gato: 12-130 U/L
+- Enzima hepatocelular específica, indica daño hepatocelular
+- Elevación leve (<3x): crónica, fármacos, lipidosis
+- Elevación severa (>10x): hepatitis aguda, intoxicación, hipoxia
+
+ALP (Fosfatasa Alcalina):
+- Perro: 23-212 U/L, Gato: 14-111 U/L
+- En perros: isoenzimas hepática, ósea y corticoide-inducida
+- Elevación en perros: colestasis, hiperadrenocorticismo, fármacos (corticoides, anticonvulsivos), crecimiento
+- En gatos: vida media corta, cualquier elevación es significativa (colestasis, lipidosis, hipertiroidismo)
+
+GGT (Gamma Glutamil Transferasa):
+- Indica colestasis, más específica que ALP en gatos
+- Útil junto con ALP para diferenciar patrón hepatocelular vs. colestásico
+
+Bilirrubina total:
+- Normal: <0.5 mg/dL
+- Elevación (ictericia visible >2 mg/dL): prehepática (hemólisis), hepática (hepatopatía), posthepática (obstrucción biliar)
+
+Albúmina:
+- Perro: 2.3-4.0 g/dL, Gato: 2.1-3.3 g/dL
+- Disminución: enfermedad hepática, enteropatía perdedora de proteínas, nefropatía, malnutrición
+- La vida media es de 8-10 días, cambios reflejan procesos crónicos
+
+3.3 Glucosa
+- Perro: 74-143 mg/dL, Gato: 74-159 mg/dL
+- Hiperglucemia: diabetes mellitus, estrés (especialmente en gatos), hiperadrenocorticismo, pancreatitis
+- Hipoglucemia: insulinoma, sepsis, insuficiencia hepática, intoxicación por xilitol, hipoadrenocorticismo
+
+3.4 Electrolitos
+
+Sodio (Na+): Perro 144-160, Gato 150-165 mEq/L
+Potasio (K+): Perro 3.5-5.8, Gato 3.5-5.8 mEq/L
+- Hiperpotasemia: insuficiencia renal, obstrucción urinaria, hipoadrenocorticismo, acidosis
+  * Emergencia si K+ >7 mEq/L (riesgo de arritmias letales)
+- Hipopotasemia: vómitos/diarrea crónicos, fluidoterapia sin suplementación, enfermedad renal crónica en gatos
+
+Calcio: Perro 9.0-11.3, Gato 8.0-10.8 mg/dL
+- Hipercalcemia: linfoma (causa más común en perros), hipoadrenocorticismo, enfermedad renal, hiperparatiroidismo primario, intoxicación por vitamina D
+- Hipocalcemia: eclampsia (tetania puerperal), hipoparatiroidismo, pancreatitis, insuficiencia renal
+
+4. URIANÁLISIS
+
+4.1 Métodos de Recolección
+- Micción espontánea: menos estéril, aceptable para química y sedimento
+- Cistocentesis: método de elección para cultivo bacteriano
+- Cateterización: alternativa a cistocentesis, riesgo de contaminación e infección iatrogénica
+
+4.2 Análisis Físico
+- Color: amarillo normal; rojo/marrón: hematuria/hemoglobinuria/mioglobinuria
+- Turbidez: transparente es normal; turbia indica células, cristales, bacterias
+- Densidad específica (DEU):
+  * Perro: 1.015-1.045 (concentrada adecuadamente), isostenurica: 1.008-1.012
+  * Gato: 1.035-1.060 (concentran más que perros)
+  * DEU <1.030 en perro o <1.035 en gato con azotemia sugiere enfermedad renal
+
+4.3 Análisis Químico (Tira reactiva)
+- pH: Perro 5.5-7.0, Gato 6.0-7.0
+- Proteínas: negativo o trazas normal; proteinuria persistente: enfermedad glomerular
+- Glucosa: negativo normal; glucosuria en diabetes o enfermedad tubular
+- Bilirrubina: trazas normales en perro macho; cualquier cantidad en gatos es anormal
+- Sangre: negativo normal; positivo: hematuria, hemoglobinuria
+
+4.4 Sedimento Urinario
+- Eritrocitos: <5/campo es normal
+- Leucocitos: <5/campo es normal; piuria indica infección o inflamación
+- Bacterias: ausentes en muestra por cistocentesis; presencia indica ITU
+- Cristales:
+  * Estruvita (fosfato amónico magnésico): pH alcalino, ITU productora de ureasa
+  * Oxalato de calcio: pH ácido, asociado a hipercalciuria
+  * Urato de amonio: shunt portosistémico
+  * Cistina: cistinuria hereditaria
+- Cilindros: indican enfermedad renal tubular (granulosos, cerosos son patológicos)
+
+5. PRUEBAS DE COAGULACIÓN
+- PT (Tiempo de Protrombina): vía extrínseca, factores I, II, V, VII, X
+- aPTT (Tiempo de Tromboplastina Parcial Activada): vía intrínseca
+- ACT (Tiempo de Coagulación Activada): screening rápido en clínica
+- Fibrinógeno: aumenta en inflamación, disminuye en CID
+- D-dímeros: elevados en CID, tromboembolismo
+- Recuento plaquetario y frotis para evaluar morfología
+
+6. PRUEBAS ESPECIALES
+- cPLI/fPLI (Lipasa Pancreática Inmunorreactiva): diagnóstico de pancreatitis
+- T4 total: screening de hipertiroidismo en gatos >7 años
+- Cortisol basal y estimulación con ACTH: diagnóstico de hipo/hiperadrenocorticismo
+- Serología/PCR para enfermedades infecciosas: Ehrlichia, Anaplasma, Leishmania, Leptospira, FeLV, FIV
+
+Fuentes: Manual de Diagnóstico de Laboratorio Veterinario (Duncan & Prasse), IRIS Staging Guidelines, Manual Merck Veterinario.

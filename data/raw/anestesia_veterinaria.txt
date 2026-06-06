@@ -1,0 +1,164 @@
+ANESTESIA VETERINARIA — PROTOCOLOS Y MONITOREO EN PEQUEÑOS ANIMALES
+
+1. INTRODUCCIÓN
+La anestesia veterinaria es una disciplina fundamental que permite realizar procedimientos quirúrgicos y diagnósticos de forma segura y sin dolor. Un protocolo anestésico adecuado debe proporcionar inconsciencia, analgesia, relajación muscular y estabilidad cardiovascular.
+
+2. EVALUACIÓN PREANESTÉSICA
+
+2.1 Historia Clínica
+- Edad, raza, peso exacto
+- Enfermedades preexistentes
+- Medicaciones actuales
+- Alergias conocidas
+- Antecedentes anestésicos previos y complicaciones
+- Ayuno prequirúrgico confirmado
+
+2.2 Examen Físico
+- Estado de hidratación
+- Auscultación cardíaca y pulmonar
+- Mucosas y TRC
+- Temperatura corporal
+- Palpación abdominal
+
+2.3 Exámenes Complementarios
+- Mínimo para pacientes jóvenes y sanos: hematocrito, proteínas totales, glucosa
+- Pacientes >5 años: hemograma completo, bioquímica (ALT, ALP, BUN, creatinina, glucosa), electrolitos
+- Pacientes geriátricos o con enfermedad sistémica: agregar radiografías torácicas, ECG, ecocardiograma si hay soplo
+
+2.4 Clasificación ASA de Riesgo Anestésico
+ASA I: Paciente sano, sin enfermedad sistémica
+ASA II: Enfermedad sistémica leve que no limita la actividad (ej: obesidad, gestación)
+ASA III: Enfermedad sistémica severa que limita la actividad (ej: anemia moderada, deshidratación)
+ASA IV: Enfermedad sistémica severa que es amenaza para la vida (ej: insuficiencia cardíaca, uremia)
+ASA V: Paciente moribundo que no se espera que sobreviva sin cirugía (ej: shock, rotura esplénica)
+
+Agregar "E" para emergencias en cualquier categoría.
+
+3. FASES DE LA ANESTESIA
+
+3.1 Premedicación
+Objetivos: sedación, ansiolisis, analgesia preventiva, reducción de dosis de inductores, efecto vagolítico.
+
+Fármacos comunes:
+- Alfa-2 agonistas: dexmedetomidina (3-10 mcg/kg IM/IV), medetomidina (10-20 mcg/kg IM)
+  Efectos: sedación profunda, analgesia visceral, bradicardia, vasoconstricción, vómitos
+  Reversible con atipamezol (igual volumen que medetomidina IM)
+  
+- Opioides:
+  * Metadona: 0.2-0.5 mg/kg IM/IV (agonista mu completo, buena analgesia)
+  * Butorfanol: 0.2-0.4 mg/kg IM/IV (agonista-antagonista, sedación, analgesia visceral moderada)
+  * Buprenorfina: 0.01-0.03 mg/kg IM/IV (agonista parcial, buena analgesia, larga duración)
+  * Fentanilo: 2-5 mcg/kg IV (agonista mu potente, corta duración, infusión continua)
+
+- Fenotiazinas: acepromacina 0.01-0.05 mg/kg IM/IV (sedación, no analgesia, hipotensión)
+
+- Benzodiazepinas: midazolam 0.2-0.5 mg/kg IM/IV (relajación muscular, mínima sedación en animales sanos)
+  Reversible con flumazenilo
+
+3.2 Inducción
+Objetivo: transición rápida y suave de consciencia a inconsciencia para permitir intubación endotraqueal.
+
+Fármacos:
+- Propofol: 2-6 mg/kg IV lento (1/4 de dosis cada 30 seg hasta efecto)
+  Ventajas: inducción suave, recuperación rápida, duración corta
+  Precauciones: apnea si se administra rápido, hipotensión
+  En gatos: puede causar cuerpos de Heinz con infusiones prolongadas
+
+- Alfaxalona: 1-3 mg/kg IV
+  Ventajas: buena relajación muscular, mínimos efectos cardiovasculares, segura en gatos
+  
+- Ketamina: 5-7 mg/kg IV (siempre combinar con benzodiazepina o alfa-2 agonista)
+  Ventajas: mantiene reflejos protectores, analgesia somática
+  Precauciones: aumenta tono muscular, no usar en pacientes con trauma craneal
+
+- Etomidato: 1-2 mg/kg IV (reservado para pacientes cardiópatas)
+  Ventajas: mínimos efectos cardiovasculares
+  Precauciones: supresión adrenocortical, mioclonías, dolor a la inyección
+
+3.3 Mantenimiento
+- Anestesia inhalatoria:
+  * Isoflurano: CAM 1.28% (perro), 1.63% (gato). Estándar actual.
+  * Sevoflurano: CAM 2.36% (perro), 2.58% (gato). Inducción y recuperación más rápidas.
+  * Administrar en oxígeno 100% mediante circuito anestésico apropiado
+  * Circuito semi-cerrado (circular) para animales >5 kg
+  * Circuito no reinhalante (Bain, Jackson-Rees) para animales <5 kg
+
+- TIVA (Anestesia Total Intravenosa):
+  * Propofol en infusión continua: 0.2-0.4 mg/kg/min
+  * Combinaciones: propofol + fentanilo + lidocaína (infusión MLK modificada)
+
+3.4 Intubación Endotraqueal
+- Seleccionar tubo endotraqueal del tamaño adecuado
+- Perros: tubo con balón, tamaño 5-14 mm según raza
+- Gatos: tubo sin balón o con balón de bajo volumen/baja presión, tamaño 3-5 mm
+- En gatos: aplicar lidocaína tópica en laringe antes de intubar (prevenir laringoespasmo)
+- Verificar posición correcta: capnografía, visualización directa, condensación en el tubo
+
+4. MONITOREO ANESTÉSICO
+
+4.1 Monitoreo Básico (Mínimo Obligatorio)
+- Frecuencia cardíaca y ritmo (estetoscopio esofágico o precordial)
+- Frecuencia respiratoria y patrón
+- Pulso y calidad del pulso (femoral, metatarsiano, lingual)
+- Color de mucosas y TRC
+- Profundidad anestésica: reflejo palpebral, posición ocular, tono mandibular, respuesta a estímulo quirúrgico
+- Temperatura corporal (riesgo de hipotermia, especialmente en gatos y animales pequeños)
+
+4.2 Monitoreo Instrumental
+- Pulsioximetría (SpO2): normal >95%, <90% indica hipoxemia que requiere intervención
+- Capnografía (ETCO2): normal 35-45 mmHg, >50 indica hipoventilación, <25 indica hiperventilación
+- ECG: detección de arritmias
+- Presión arterial: invasiva (catéter arterial, gold standard) o no invasiva (oscilométrica, Doppler)
+  * Normal: PAS 90-140 mmHg, PAM 60-100 mmHg
+  * Hipotensión: PAM <60 mmHg — tratar con fluidos, reducir anestésico, considerar vasopresores
+
+4.3 Registro Anestésico
+Registrar parámetros cada 5 minutos en hoja anestésica: FC, FR, SpO2, ETCO2, PA, temperatura, concentración de inhalatorio, fluidos administrados, fármacos.
+
+5. FLUIDOTERAPIA INTRAOPERATORIA
+- Tasa estándar: 5-10 ml/kg/h en perros, 3-5 ml/kg/h en gatos
+- Cristaloides: Ringer Lactato, NaCl 0.9%
+- Ajustar según pérdidas sanguíneas y estado cardiovascular
+- Calentar fluidos para prevenir hipotermia
+
+6. ANALGESIA PERIOPERATORIA
+La analgesia debe ser multimodal y preventiva (administrar ANTES del estímulo doloroso).
+
+Componentes:
+- Opioides sistémicos (premedicación y rescue)
+- AINEs: meloxicam, carprofeno (no combinar entre sí)
+- Anestesia local/regional:
+  * Bloqueo de línea de incisión: lidocaína 2% (4 mg/kg máx perro, 2 mg/kg máx gato) o bupivacaína 0.5% (2 mg/kg máx)
+  * Bloqueo epidural: morfina 0.1 mg/kg + bupivacaína 0.5% (1 ml/4.5 kg)
+  * Bloqueo del plano transverso del abdomen (TAP block)
+- Ketamina en microdosis: 0.5 mg/kg IV bolo + 10 mcg/kg/min infusión (analgesia NMDA)
+- Lidocaína IV (solo perros): 1 mg/kg bolo + 25-50 mcg/kg/min (analgesia, procinético, antiarrítmico)
+
+7. COMPLICACIONES ANESTÉSICAS
+
+7.1 Hipotensión (PAM <60 mmHg)
+Causas: profundidad anestésica excesiva, hipovolemia, vasodilatación
+Manejo: reducir concentración de inhalatorio, bolo de cristaloides (10-20 ml/kg), vasopresores si no responde
+
+7.2 Bradicardia
+Causas: alfa-2 agonistas, opioides, reflejo vagal, hipotermia
+Manejo: atropina 0.02-0.04 mg/kg IV, glicopirrolato 0.01 mg/kg IV
+
+7.3 Hipotermia
+Frecuente en pacientes pequeños y cirugías prolongadas
+Prevención: colchonetas térmicas, fluidos calientes, minimizar exposición
+Manejo: calentamiento activo con mantas de aire forzado
+
+7.4 Apnea / Hipoventilación
+Causas: profundidad excesiva, opioides, propofol
+Manejo: ventilación manual o mecánica, reducir profundidad anestésica
+
+8. RECUPERACIÓN ANESTÉSICA
+- Monitoreo continuo hasta que el paciente esté consciente
+- Mantener tubo endotraqueal hasta que haya reflejo de deglución
+- Posición esternal preferida
+- Mantener en ambiente cálido y tranquilo
+- Analgesia de rescate si hay signos de dolor
+- No dejar solo al paciente durante la recuperación
+
+Fuentes: BSAVA Manual of Canine and Feline Anaesthesia and Analgesia, Veterinary Anesthesia and Analgesia (Lumb & Jones), Manual Merck Veterinario.

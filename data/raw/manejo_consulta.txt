@@ -1,0 +1,183 @@
+MANEJO DE LA CONSULTA VETERINARIA — PROTOCOLO DE ATENCIÓN
+
+1. INTRODUCCIÓN
+La consulta veterinaria es el acto clínico fundamental en la práctica de pequeños animales. Un protocolo de consulta estructurado y sistemático garantiza una atención de calidad, mejora la comunicación con el propietario y minimiza el riesgo de errores diagnósticos. Este documento establece el protocolo estándar de consulta para clínicas veterinarias.
+
+2. RECEPCIÓN Y PREPARACIÓN
+
+2.1 Llegada del Paciente
+- Recibir al propietario y su mascota con amabilidad y profesionalismo
+- Verificar datos de la ficha clínica (nombre, especie, raza, sexo, edad, peso previo)
+- Identificar el motivo de consulta principal
+- Registrar si es primera consulta o control
+- En gatos: ofrecer zona de espera separada de perros (cat-friendly practice)
+
+2.2 Registro de Peso
+- Pesar al paciente en cada consulta
+- Comparar con peso anterior
+- Variaciones significativas (>5% en un mes) deben investigarse
+- En cachorros: verificar curva de crecimiento
+
+3. ANAMNESIS (HISTORIA CLÍNICA)
+
+3.1 Datos Básicos
+- Especie, raza, sexo (entero/castrado), edad, peso actual
+- Procedencia (criador, refugio, calle)
+- Convivencia con otros animales
+- Tipo de alimentación (marca, cantidad, frecuencia)
+- Ambiente (interior, exterior, mixto, urbano, rural)
+- Actividad física
+- Antecedentes médicos: enfermedades previas, cirugías, alergias a fármacos
+- Medicaciones actuales
+
+3.2 Motivo de Consulta
+Preguntas clave:
+- ¿Cuál es el problema principal? (dejar que el propietario lo describa)
+- ¿Desde cuándo? (inicio agudo vs. gradual)
+- ¿Ha empeorado, mejorado o se mantiene igual?
+- ¿Hay algún factor desencadenante identificable?
+- ¿Se ha tratado anteriormente? ¿Con qué resultado?
+
+3.3 Revisión por Sistemas
+Preguntar sistemáticamente sobre:
+- Apetito y consumo de agua (poliuria/polidipsia)
+- Vómitos y diarrea (frecuencia, aspecto, sangre)
+- Tos, estornudos, secreción nasal/ocular
+- Orina (frecuencia, color, esfuerzo)
+- Actividad y energía
+- Cambios de comportamiento
+- Problemas de piel (prurito, caída de pelo, lesiones)
+- Cojera o dificultad para moverse
+- Vacunación y desparasitación (fechas)
+
+4. EXAMEN FÍSICO COMPLETO
+
+4.1 Examen General
+- Estado mental: alerta, deprimido, letárgico, estuporoso, comatoso
+- Condición corporal (BCS 1-9)
+- Estado de hidratación: pliegue cutáneo, humedad de mucosas, posición ocular
+  * <5%: no detectable clínicamente
+  * 5-6%: pérdida sutil de elasticidad cutánea
+  * 7-8%: pliegue cutáneo persistente, mucosas secas, ojos hundidos
+  * 10-12%: signos de shock, pliegue muy persistente
+- Temperatura rectal: Perro 37.5-39.2°C, Gato 38.1-39.2°C
+- Frecuencia cardíaca y calidad de pulso
+- Frecuencia respiratoria: Perro 15-30 rpm, Gato 20-40 rpm
+- Peso corporal
+
+4.2 Examen por Regiones
+
+Cabeza y cuello:
+- Ojos: posición, simetría pupilar, reflejo pupilar, reflejo de amenaza, test de Schirmer, fluoresceína, fondo de ojo
+- Oídos: otoscopio, evaluar conducto, membrana timpánica, secreciones
+- Boca: dientes, encías, lengua, paladar, tonsilas, halitosis, masas
+- Nariz: secreciones, simetría, flujo aéreo
+- Nódulos linfáticos submandibulares y retrofaríngeos
+
+Tórax:
+- Auscultación cardíaca: todos los focos (mitral, tricúspide, aórtico, pulmonar)
+- Auscultación pulmonar: bilateral, todos los campos
+- Percusión torácica si se sospecha efusión
+
+Abdomen:
+- Palpación sistemática: estómago, intestinos, hígado, bazo, riñones, vejiga, próstata/útero
+- Dolor abdominal: localizar
+- Masas, organomegalia, líquido libre
+
+Piel y pelaje:
+- Distribución de lesiones
+- Tipo de lesiones: pápulas, pústulas, eritema, alopecia, costras, escamas
+- Parásitos visibles
+- Calidad del pelaje
+
+Sistema musculoesquelético:
+- Evaluación de la marcha
+- Palpación de articulaciones
+- Rango de movimiento
+- Test de cajón (rodilla)
+- Dolor a la manipulación
+
+Nódulos linfáticos periféricos:
+- Submandibulares, preescapulares, axilares, inguinales, poplíteos
+- Tamaño, consistencia, simetría, dolor
+
+Área urogenital:
+- Inspección de vulva/prepucio
+- Palpación testicular (si macho entero)
+- Glándulas mamarias
+- Palpación rectal si está indicado
+
+4.3 Examen Neurológico Básico
+Si hay sospecha neurológica:
+- Estado mental y comportamiento
+- Postura y marcha
+- Reacciones posturales: propiocepción, wheelbarrowing
+- Reflejos espinales: patelar, flexor, perineal
+- Pares craneales
+- Sensibilidad profunda (dolor profundo)
+
+5. DIAGNÓSTICOS DIFERENCIALES
+
+5.1 Método de Razonamiento
+- A partir de los hallazgos de la anamnesis y examen físico, generar una lista de diagnósticos diferenciales ordenados por probabilidad
+- Considerar: prevalencia (enfermedades comunes son comunes), signalamento (raza, edad, sexo), presentación clínica
+
+5.2 Plan Diagnóstico
+Seleccionar los exámenes complementarios necesarios para confirmar/descartar:
+- Hemograma y bioquímica
+- Urianálisis
+- Diagnóstico por imagen (radiografía, ecografía)
+- Citología
+- Cultivos
+- Tests rápidos (SNAP)
+- Pruebas específicas según sospecha
+
+6. COMUNICACIÓN CON EL PROPIETARIO
+
+6.1 Explicación del Diagnóstico
+- Usar lenguaje claro y comprensible
+- Apoyarse en imágenes o modelos si es posible
+- Explicar la enfermedad, pronóstico y opciones de tratamiento
+- Discutir costos estimados
+- Asegurarse de que el propietario entienda y esté de acuerdo con el plan
+
+6.2 Consentimiento Informado
+- Para procedimientos invasivos, anestesia o tratamientos de riesgo
+- Debe ser escrito y firmado
+- Incluir: procedimiento propuesto, riesgos, alternativas, costo estimado
+
+6.3 Instrucciones de Alta
+- Entregar por escrito las instrucciones de medicación
+- Explicar signos de alarma que requieran consulta urgente
+- Programar la consulta de seguimiento
+- Dejar abierta la vía de comunicación para dudas
+
+7. REGISTRO CLÍNICO (FICHA MÉDICA)
+La ficha clínica debe contener:
+- Fecha y hora de la consulta
+- Identificación del paciente y propietario
+- Anamnesis detallada
+- Hallazgos del examen físico
+- Lista de problemas
+- Diagnósticos diferenciales
+- Plan diagnóstico y terapéutico
+- Medicaciones prescritas (fármaco, dosis, vía, frecuencia, duración)
+- Seguimiento programado
+- Nombre y firma del veterinario responsable
+
+Formato recomendado: SOAP (Subjective - Objective - Assessment - Plan)
+
+8. MEDICINA PREVENTIVA EN LA CONSULTA
+
+8.1 Protocolo de Wellness
+- Verificar y actualizar esquema de vacunación
+- Verificar y actualizar desparasitación
+- Evaluar condición corporal y nutrición
+- Revisar salud dental
+- Discutir esterilización si no se ha realizado
+- Screening de enfermedades según edad:
+  * Cachorros/gatitos: parásitos, enfermedades congénitas
+  * Adultos: hemograma/bioquímica anual
+  * Senior (>7 años): panel geriátrico completo (hemograma, bioquímica, T4 en gatos, urianálisis, PA)
+
+Fuentes: AAHA Canine Preventive Healthcare Guidelines, AAFP Feline Preventive Healthcare Guidelines, Manual Merck Veterinario.

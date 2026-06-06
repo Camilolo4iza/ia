@@ -1,0 +1,86 @@
+VACUNACIÓN EN PERROS — GUÍA COMPLETA DE PROTOCOLOS
+
+1. INTRODUCCIÓN
+La vacunación es una de las herramientas más importantes en medicina preventiva veterinaria canina. Los programas de inmunización han reducido significativamente la incidencia de enfermedades infecciosas graves en perros. Este documento establece los protocolos de vacunación recomendados para clínicas veterinarias de pequeños animales.
+
+2. VACUNAS ESENCIALES (CORE)
+Las vacunas esenciales son aquellas que todo perro debe recibir independientemente de su estilo de vida o ubicación geográfica.
+
+2.1 Parvovirus Canino (CPV-2)
+El parvovirus canino es una enfermedad viral altamente contagiosa que afecta principalmente al tracto gastrointestinal. Los signos clínicos incluyen vómitos severos, diarrea hemorrágica, deshidratación y leucopenia. La mortalidad sin tratamiento puede alcanzar el 90% en cachorros.
+
+Protocolo de vacunación:
+- Primera dosis: 6-8 semanas de edad
+- Segunda dosis: 10-12 semanas de edad
+- Tercera dosis: 14-16 semanas de edad
+- Refuerzo: al año de edad
+- Revacunación: cada 3 años (según WSAVA)
+
+2.2 Moquillo Canino (CDV - Canine Distemper Virus)
+El virus del moquillo canino afecta los sistemas respiratorio, gastrointestinal y nervioso. Los signos incluyen secreción nasal y ocular, tos, fiebre, anorexia, y en etapas avanzadas, convulsiones y mioclonías. La mortalidad es elevada, especialmente en cachorros no vacunados.
+
+Protocolo de vacunación:
+- Primera dosis: 6-8 semanas de edad
+- Segunda dosis: 10-12 semanas de edad
+- Tercera dosis: 14-16 semanas de edad
+- Refuerzo: al año de edad
+- Revacunación: cada 3 años
+
+2.3 Hepatitis Infecciosa Canina (Adenovirus Canino tipo 2 - CAV-2)
+El adenovirus canino tipo 1 causa hepatitis infecciosa. Se utiliza el CAV-2 en la vacuna porque proporciona protección cruzada contra CAV-1 sin los efectos adversos oculares. Los signos clínicos de hepatitis incluyen fiebre, letargia, anorexia, vómitos y dolor abdominal.
+
+Protocolo de vacunación:
+- Se administra junto con moquillo y parvovirus en vacuna polivalente
+- Mismo esquema que las anteriores
+
+2.4 Rabia
+La rabia es una enfermedad zoonótica mortal causada por un lyssavirus que afecta al sistema nervioso central. Es de declaración obligatoria en la mayoría de países. Los signos clínicos incluyen cambios de comportamiento, agresividad, parálisis progresiva y muerte.
+
+Protocolo de vacunación:
+- Primera dosis: 12-16 semanas de edad (según legislación local)
+- Refuerzo: al año de edad
+- Revacunación: anual o cada 3 años según la legislación vigente y el producto utilizado
+
+3. VACUNAS NO ESENCIALES (NON-CORE)
+Se recomiendan según el estilo de vida y riesgo epidemiológico del paciente.
+
+3.1 Leptospirosis
+Enfermedad bacteriana zoonótica causada por espiroquetas del género Leptospira. Los perros en zonas con roedores, que nadan en aguas estancadas o viven en áreas rurales tienen mayor riesgo. Los signos incluyen fiebre, ictericia, insuficiencia renal y hepática.
+
+Protocolo:
+- Primera dosis: 8-12 semanas
+- Segunda dosis: 2-4 semanas después
+- Revacunación: anual (la inmunidad es de corta duración)
+
+3.2 Bordetella bronchiseptica y Parainfluenza (Tos de las perreras)
+Recomendada para perros que asisten a guarderías, exposiciones, refugios o parques caninos. La tos de las perreras es un complejo respiratorio con tos seca, paroxística y persistente.
+
+Protocolo:
+- Vacuna intranasal: dosis única desde las 3 semanas
+- Vacuna inyectable: dos dosis con 2-4 semanas de intervalo
+- Revacunación: anual
+
+3.3 Influenza Canina (CIV H3N2 / H3N8)
+Recomendada en áreas con brotes reportados. Los signos incluyen tos, secreción nasal, fiebre y letargia.
+
+4. ESQUEMA RESUMIDO DE VACUNACIÓN CANINA
+
+Edad                | Vacunas
+6-8 semanas         | Polivalente (Moquillo + Parvovirus + Hepatitis) - 1ra dosis
+10-12 semanas       | Polivalente - 2da dosis + Leptospirosis 1ra dosis
+14-16 semanas       | Polivalente - 3ra dosis + Rabia + Leptospirosis 2da dosis
+12 meses            | Refuerzo polivalente + Rabia + Leptospirosis
+Cada 1-3 años       | Revacunación según protocolo
+
+5. CONSIDERACIONES IMPORTANTES
+- No vacunar animales enfermos, febriles o inmunocomprometidos
+- Esperar al menos 2 semanas entre vacunaciones de diferentes antígenos
+- Registrar lote, fecha de vencimiento y vía de administración
+- Informar al propietario sobre posibles reacciones adversas (tumefacción local, fiebre transitoria, anafilaxia)
+- Los cachorros no deben socializar en áreas públicas hasta completar el esquema primario
+- Mantener la cadena de frío (2-8°C) durante el almacenamiento y transporte
+
+6. REACCIONES ADVERSAS POST-VACUNALES
+Las reacciones más comunes son dolor local, edema en el sitio de inyección y fiebre leve durante 24-48 horas. En casos raros puede ocurrir anafilaxia (dentro de los primeros 30 minutos), que requiere tratamiento inmediato con epinefrina (0.01 mg/kg IV o IM).
+
+Fuentes: Directrices de vacunación WSAVA 2024, Manual Merck Veterinario.
