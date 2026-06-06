@@ -216,19 +216,7 @@ def build_pdf():
     pdf.multi_cell(0, 5, sanitize_text(decisiones_text))
     pdf.ln(15)
     
-    # firmas
-    pdf.set_font('Helvetica', 'I', 9)
-    pdf.set_text_color(127, 140, 141)
-    pdf.cell(95, 5, sanitize_text("Firma del Desarrollador Principal"), 0, 0, 'C')
-    pdf.cell(95, 5, sanitize_text("Firma del Evaluador Académico"), 0, 1, 'C')
-    
-    pdf.ln(10)
-    pdf.cell(95, 5, "_______________________", 0, 0, 'C')
-    pdf.cell(95, 5, "_______________________", 0, 1, 'C')
-    
-    pdf.set_font('Helvetica', '', 8)
-    pdf.cell(95, 5, "Ingeniería de Software / IA", 0, 0, 'C')
-    pdf.cell(95, 5, sanitize_text("Sustentación de Proyecto Final"), 0, 1, 'C')
+
 
     # Guardar PDF
     pdf.output(str(OUTPUT_PDF))
